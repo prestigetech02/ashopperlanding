@@ -28,8 +28,9 @@ const VENDOR_LINKS = [
 
 const SOCIALS = [
   {
-    href: "#",
+    href: "https://www.facebook.com/share/18JsBXoCr7/",
     label: "Facebook",
+    external: true,
     icon: (
       <svg viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="currentColor" aria-hidden>
         <path d="M14 9h3V6h-3c-1.7 0-3 1.3-3 3v2H8v3h3v7h3v-7h3l1-3h-4V9c0-.6.4-1 1-1Z" />
@@ -46,8 +47,9 @@ const SOCIALS = [
     ),
   },
   {
-    href: "#",
+    href: "https://www.instagram.com/ashopper.com_official/",
     label: "Instagram",
+    external: true,
     icon: (
       <svg viewBox="0 0 24 24" className="h-3.5 w-3.5" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden>
         <rect x="4" y="4" width="16" height="16" rx="4" />
@@ -109,11 +111,11 @@ export function Footer() {
         <div>
           <Link href="/" className="inline-flex items-center">
             <Image
-              src="/images/ashopper-footer-logo.png"
-              alt="A Shopper Global Limited"
-              width={269}
-              height={120}
-              className="h-16 w-auto object-contain sm:h-[4.5rem]"
+              src="/images/ashopper-logo.png"
+              alt="A Shopper"
+              width={1046}
+              height={351}
+              className="h-12 w-auto object-contain sm:h-14"
             />
           </Link>
           <p className="mt-3 max-w-[16rem] text-sm leading-relaxed text-white/70">
@@ -128,11 +130,14 @@ export function Footer() {
         <div>
           <h3 className="text-sm font-semibold text-white">Stay Connected</h3>
           <div className="mt-4 flex flex-wrap gap-2.5">
-            {SOCIALS.map(({ icon, href, label }) => (
+            {SOCIALS.map(({ icon, href, label, external }) => (
               <a
                 key={label}
                 href={href}
                 aria-label={label}
+                {...(external
+                  ? { target: "_blank", rel: "noopener noreferrer" }
+                  : {})}
                 className="flex h-8 w-8 items-center justify-center rounded-full border border-white/80 text-white transition-colors hover:border-primary hover:text-primary"
               >
                 {icon}

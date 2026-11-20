@@ -74,6 +74,10 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
         q: "Can I list both sales and rentals?",
         a: "Yes. You can publish sale listings and rental listings from the same vendor store, with photos, specs, and pricing managed directly on your phone.",
       },
+      {
+        q: "How do I get paid in my local currency?",
+        a: "Vendor payouts are settled in your local currency where supported. Amounts and fees are shown in the app before you accept an order, so you always know what you will receive.",
+      },
     ],
   },
   {

@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en" className={inter.variable}>
-      <body className="min-h-screen bg-background font-sans text-foreground antialiased">
+      <body className={`${inter.className} min-h-screen bg-background text-foreground antialiased`}>
         <CurrencyProvider>
           <SearchProvider>
             <Header />

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { BadgeCheck, FileText, RefreshCcw, ShieldCheck } from "lucide-react";
 
 const POINTS = [
@@ -41,10 +42,14 @@ export function BuyerProtection() {
               stay fully in control.
             </p>
           </div>
-          <div className="relative min-h-[240px] overflow-hidden rounded-2xl bg-muted lg:min-h-[280px]">
-            <div className="flex h-full min-h-[240px] items-center justify-center text-sm text-muted-foreground lg:min-h-[280px]">
-              Buyer protection image
-            </div>
+          <div className="relative min-h-[240px] overflow-hidden rounded-2xl bg-[#f3f4f6] lg:min-h-[280px]">
+            <Image
+              src="/images/user.png"
+              alt="A-Shopper buyer app showing order confirmation and request status"
+              fill
+              className="object-contain object-center p-4 sm:p-6"
+              sizes="(max-width: 1024px) 100vw, 50vw"
+            />
           </div>
         </div>
 

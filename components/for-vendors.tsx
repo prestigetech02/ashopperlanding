@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Gift, Globe, ShieldCheck, Zap } from "lucide-react";
 
 const POINTS = [
@@ -54,10 +55,14 @@ export function ForVendors() {
             </p>
           </div>
 
-          <div className="relative min-h-[280px] overflow-hidden rounded-2xl bg-muted lg:min-h-[420px]">
-            <div className="flex h-full min-h-[280px] items-center justify-center text-sm text-muted-foreground lg:min-h-[420px]">
-              Vendors image
-            </div>
+          <div className="relative min-h-[280px] overflow-hidden rounded-2xl bg-[#f3f4f6] lg:min-h-[420px]">
+            <Image
+              src="/images/vendor.png"
+              alt="A-Shopper vendor app showing product details and buyer chat"
+              fill
+              className="object-contain object-center p-4 sm:p-6"
+              sizes="(max-width: 1024px) 100vw, 50vw"
+            />
           </div>
         </div>
       </div>

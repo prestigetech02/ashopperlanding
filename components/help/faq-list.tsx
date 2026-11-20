@@ -63,8 +63,8 @@ export function HelpFaqList() {
 
   return (
     <section className="bg-surface">
-      <div className="mx-auto max-w-7xl px-4 pb-14 sm:px-6 lg:px-8 lg:pb-20">
-        <div className="flex flex-wrap gap-2 rounded-2xl border border-border bg-background p-2">
+      <div className="mx-auto max-w-7xl px-4 pb-14 pt-2 sm:px-6 lg:px-8 lg:pb-20 lg:pt-4">
+        <div className="mt-6 flex flex-wrap gap-2 rounded-2xl border border-border bg-background p-2 sm:mt-8">
           {FAQ_CATEGORIES.map((item) => {
             const isActive = item.id === active;
             return (

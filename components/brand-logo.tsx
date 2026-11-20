@@ -11,11 +11,11 @@ export function BrandLogo({ href = "/", className }: BrandLogoProps) {
   return (
     <Link href={href} className={cn("flex shrink-0 items-center", className)}>
       <Image
-        src="/images/as-logo-lockup.png"
-        alt="A Shopper Global Limited"
-        width={253}
-        height={81}
-        className="h-10 w-auto object-contain sm:h-11"
+        src="/images/ashopper-logo.png"
+        alt="A Shopper"
+        width={1046}
+        height={351}
+        className="h-10 w-auto object-contain sm:h-12"
         priority
       />
     </Link>

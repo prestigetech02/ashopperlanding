@@ -1,44 +1,48 @@
-import { BadgeCheck, ShieldCheck, Truck } from "lucide-react";
-import { HeroSearch } from "@/components/hero-search";
-
-const TRUST_ITEMS = [
-  { icon: ShieldCheck, label: "Money Protection" },
-  { icon: BadgeCheck, label: "Verified Vendors" },
-  { icon: Truck, label: "Nationwide Delivery" },
-];
+import Image from "next/image";
+import Link from "next/link";
+import { ArrowUpRight, Download } from "lucide-react";
+import { HeroTypedWord } from "@/components/hero-typed-word";
 
 export function Hero() {
   return (
     <section className="relative overflow-hidden bg-background">
-      <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_top,_#f4f7fb_0%,_transparent_55%)]" />
-      <div className="relative mx-auto grid max-w-7xl items-center gap-10 px-4 py-12 sm:px-6 lg:grid-cols-2 lg:gap-16 lg:px-8 lg:py-20">
-        <div>
-          <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-[3.4rem] lg:leading-[1.1]">
-            The World&apos;s First Global Engineering Equipment{" "}
-            <span className="text-primary">Marketplace</span>
-          </h1>
+      <div aria-hidden className="hero-mesh pointer-events-none absolute inset-0" />
+      <div className="relative mx-auto flex max-w-6xl flex-col items-center px-4 pt-16 pb-6 text-center sm:px-6 sm:pt-24 sm:pb-8 lg:px-8 lg:pt-28">
+        <h1 className="max-w-5xl text-[2.35rem] font-extrabold leading-[1.08] tracking-[-0.03em] text-[#102018] sm:text-5xl lg:text-6xl lg:leading-[1.08]">
+          The World&apos;s First Global B2B
+          <br />
+          Engineering <HeroTypedWord /> Marketplace
+        </h1>
 
-          <p className="mt-5 text-lg font-semibold text-foreground sm:text-xl">
-            Buy, Sell, and Rent Engineering Equipment, Right From Your Phone
-          </p>
+        <p className="mt-6 max-w-2xl text-base leading-relaxed text-[#6b7280] sm:text-lg">
+          Buy, Sell, and Rent Engineering Equipment Globally
+        </p>
 
-          <ul className="mt-8 flex flex-wrap gap-x-8 gap-y-4">
-            {TRUST_ITEMS.map(({ icon: Icon, label }) => (
-              <li key={label} className="flex items-center gap-2.5 text-sm font-medium text-foreground">
-                <Icon className="h-5 w-5 shrink-0 text-primary" strokeWidth={2.4} />
-                {label}
-              </li>
-            ))}
-          </ul>
-
-          <HeroSearch />
+        <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
+          <Link
+            href="/#download"
+            className="inline-flex items-center gap-2 rounded-lg bg-primary px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-primary-hover"
+          >
+            Download A-Shopper
+            <Download className="h-4 w-4" strokeWidth={2.4} />
+          </Link>
+          <Link
+            href="/vendors"
+            className="inline-flex items-center gap-2 rounded-lg border border-[#d7dbe2] bg-white px-5 py-3 text-sm font-semibold text-[#1f2937] transition-colors hover:bg-muted"
+          >
+            Become a vendor
+            <ArrowUpRight className="h-4 w-4" strokeWidth={2.4} />
+          </Link>
         </div>
 
-        <div className="relative min-h-[320px] overflow-hidden rounded-3xl bg-muted lg:min-h-[460px]">
-          <div className="flex h-full min-h-[320px] items-center justify-center text-sm text-muted-foreground lg:min-h-[460px]">
-            Hero image
-          </div>
-        </div>
+        <Image
+          src="/images/Global Trade Network Map (1).png"
+          alt="Global trade network linking buyers and vendors across countries"
+          width={1774}
+          height={887}
+          priority
+          className="mt-12 h-auto w-full max-w-6xl sm:mt-16"
+        />
       </div>
     </section>
   );

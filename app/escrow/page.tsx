@@ -4,7 +4,6 @@ import { MoneyProtectionSteps } from "@/components/money-protection/steps";
 import { MoneyProtectionWhy } from "@/components/money-protection/why";
 import { MoneyProtectionFaq } from "@/components/money-protection/faq";
 import { MoneyProtectionClosing } from "@/components/money-protection/closing";
-import { DownloadBanner } from "@/components/download-banner";
 
 export const metadata: Metadata = {
   title: "Money Protection — A-Shopper",
@@ -20,7 +19,6 @@ export default function MoneyProtectionPage() {
       <MoneyProtectionWhy />
       <MoneyProtectionFaq />
       <MoneyProtectionClosing />
-      <DownloadBanner />
     </main>
   );
 }

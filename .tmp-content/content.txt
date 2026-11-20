@@ -1,0 +1,1030 @@
+﻿A-Shopper
+Full Refined Copy 
+Contents: Homepage · About Us · Contact Us · Marketplace · How It Works · Money Protection Page · Help Center/FAQ · Terms & Conditions (unedited) · Privacy Policy (unedited)
+PART 1 — HOMEPAGE
+Hero Section
+Headline
+The World's First Global B2B Engineering Equipment Marketplace
+Subheadline
+Buy, Sell, and Rent Engineering Equipment Globally
+Trust Badges
+Money Protection / Verified Vendors / Global Trade / Local Currency
+Image/Visual: Two phone mockups: one showing the Browse screen (search bar, category tabs, equipment listing cards), and one showing in-app chat with a Payment Secured confirmation. Dark background, orange and white brand colours.
+Our Mission
+At A-Shopper, our mission is to make buying, selling, and renting of engineering equipment simple, fair, and accessible. We are building a trusted platform for global B2B engineering marketplace that connects buyers and vendors, promotes transparency, and makes it easier for businesses and individuals to find the equipment they need and do transact with confidence.
+Shop With Confidence
+A safe place to source all your engineering equipment. A-Shopper connects you with trusted, verified manufacturers, distributors, and sellers worldwide. Choose how you pay, get your equipment delivered, and manage everything from wherever you are.
+Browse Verified Equipment
+Search thousands of engineering equipments and tools for sales or rent from verified manufacturers, distributors, and sellers.
+Trade Assurance
+Buy directly from a vendor using our Money Protection. Your payment is held securely and released to the vendor only after your equipment has been delivered and confirmed.
+Chat Directly With Sellers
+Message vendors directly in the app to ask questions, discuss details, and negotiate prices. Get a notification as soon as they reply.
+Verified Vendors Worldwide
+Access engineering equipment from trusted, verified manufacturers, distributors, and sellers around the world.
+Image/Visual: A row of 4 icons, one per feature above: a search/browse icon, a payment/lock icon for Trade Assurance, a chat icon, and a verified-badge icon.
+Buy in 3 Simple Steps
+Step 1: Download the App
+Download A-Shopper on iOS or Android and create your buyer account in less than a minute.
+Step 2: Find Your Equipment
+Browse thousands of engineering products, filter by category and location, and chat directly with verified vendors.
+Step 3: Pay and Receive
+Complete your purchase and pay in your local currency without needing to exchange currencies yourself. Your payment is processed in the currency available to you, while Money Protection helps secure your transaction.
+Image/Visual: A numbered step layout (Step 1, 2, 3) matching the 3 steps above.
+A-Shopper Buyer Protection
+When you use Money Protection, your payment is held securely and released to the vendor only after you confirm that your equipment has been delivered, so you're covered from payment to delivery.
+CTA Button: Learn More About Money Protection
+Image/Visual: A short 4-step icon graphic (Pay, Dispatch, Confirm, Release) to reinforce the protection message, a condensed version of the full flow on the Money Protection page.
+Vendor Protection
+Sell your engineering equipment with confidence. A-Shopper helps you connect with buyers, manage your sales, and receive your payment securely through Money Protection.
+Secure Payments
+When a buyer uses Money Protection, their payment is held securely and released to you after the buyer confirms that the equipment has been delivered.
+Reach Buyers Worldwide
+Connect with buyers from different markets through A-Shopper's growing global marketplace.
+Sell Directly to Buyers
+Chat with buyers, answer questions, discuss prices, and manage your sales directly through the app.
+Simple From Start to Finish
+Add your equipment from your phone, manage your sales, track deliveries, and receive payments, all in one place.
+Footer Note
+Free to join. No subscription fees. Pay only when you make a sale.
+Image/Visual: A real (non-stock) photo or mockup of a vendor listing equipment from their phone, in the app's dark, orange-accented style.
+Closing CTA
+Ready to Find Your Next Equipment?
+Join buyers and vendors connecting through A-Shopper, a global marketplace for engineering equipment. Download the A-Shopper app today and get started.
+Footnote
+Requires iOS 13 or later, or Android 8.
+Image/Visual: App Store and Google Play download badges, plus a QR code for quick install.
+FAQ
+Do I have to use Money Protection when I buy?
+Yes. Money Protection helps secure your payment when you purchase through A-Shopper. Your payment is held securely and released to the vendor after you confirm that your equipment has been delivered.
+What types of equipment can I buy or rent?
+You can buy or rent all types of engineering equipment from verified manufacturers, distributors, and sellers worldwide.
+Can I negotiate the price with a vendor?
+Yes. You can chat directly with vendors in the app to ask questions, discuss prices, and agree on the details before making a purchase.
+What happens if my equipment does not arrive or does not match?
+If your equipment does not arrive or does not match the product details provided by the vendor, you can raise a dispute through the app. If you used Money Protection, your payment remains protected while the issue is reviewed.
+CTA Button: View All FAQs
+PART 2 — ABOUT US PAGE
+Headline
+A Global B2B Marketplace for Engineering Equipment
+Who We Are
+A-Shopper Global Limited is a global B2B, B2C, C2C, and Rental-to-Service e-commerce platform built for engineering equipment, connecting buyers with verified manufacturers, distributors, and sellers worldwide.
+From small tools to heavy machinery, excavators, power tools, and industrial equipment, A-Shopper brings buying, selling, renting, communication, Money Protection, and delivery tracking together in one mobile app.
+Our goal is simple: make it easier for businesses and individuals everywhere to find the equipment they need, connect with trusted vendors, and complete every transaction through a straightforward, transparent process.
+Image/Visual: A clean brand graphic or team/product photo, dark background with orange and white accents, consistent with the rest of the site.
+PART 3 — CONTACT US PAGE
+Headline
+We'd Love to Hear From You
+Have a question about buying, selling, partnerships, or support? Send us a message and our team will get back to you as soon as possible.
+Contact Options
+General Support — Get help with your account, orders, payments, or app experience.
+Vendor & Partnerships — Learn more about becoming a vendor, supplier opportunities, partnerships, and business enquiries.
+Frequently Asked Questions — Find quick answers about buying, Money Protection, rentals, payments, delivery, and selling.
+Email Us — Prefer to contact us by email? Reach our support team through our support email address.
+Contact Form
+Full Name (Enter your full name) / Email Address (Enter your email address) / Subject (Select a topic) / Message (Tell us how we can help) / Send Message button
+Image/Visual: A 4-card layout, one card per contact option listed above.
+PART 4 — MARKETPLACE PAGE
+Headline
+Browse Engineering Equipment for Sale or Rent
+Explore engineering equipment from verified manufacturers, distributors, and sellers worldwide. Search and filter by category, location, price, and availability to find the equipment you need.
+When you find the right equipment, continue in the A-Shopper app to chat with the vendor, complete your purchase, and use Money Protection to secure your payment.
+Search and Filters
+Search equipment, tools, machinery... / Category: All Categories / Availability: For Sale or Rent / Minimum Price / Maximum Price / Location: All Locations / Sort: Newest
+Equipment Cards
+Each equipment card shows: Equipment image, Equipment name, Price or rental rate, Location, Sale or rental status, Vendor name, Verified Vendor badge, Rating (where available), and a View Details button.
+Image/Visual: A grid of equipment cards, each showing the fields listed above: image, name, vendor, price, and verified badge.
+PART 5 — HOW IT WORKS PAGE
+Headline
+From Download to Delivery, Made Simple
+Find the engineering equipment you need, connect with verified vendors, pay securely with Money Protection, and track your order through delivery, all from the A-Shopper mobile app.
+Calls to Action
+Get the App  /  Selling Equipment? Become a Vendor
+How to Buy: Six Simple Steps
+Step 1: Download the App
+Download A-Shopper on iOS or Android and create your buyer account in less than a minute.
+Step 2: Find Your Equipment
+Browse engineering equipment for sale or rent. Filter by category, specifications, location, and availability to find what you need.
+Step 3: Chat With the Vendor
+Ask questions, discuss prices, or request rental terms directly from the vendor in the app before making a purchase.
+Step 4: Pay With Money Protection
+Complete your purchase securely with Money Protection. Your payment is held securely and released to the vendor only after you confirm that your equipment has been delivered.
+Step 5: Track Your Delivery
+Track your order from dispatch to delivery and stay updated on its progress through the app.
+Step 6: Confirm Delivery
+Receive and inspect your equipment. Once you confirm delivery in the app, the payment is released to the vendor.
+Image/Visual: A numbered vertical timeline (Step 1–6) matching the 6 steps above.
+CTA Button: See Full Money Protection Details
+Closing CTA
+Ready to Find Your Next Equipment?
+Download A-Shopper and explore engineering equipment from verified vendors worldwide.
+Selling Equipment Instead?
+Join A-Shopper as a vendor, connect with buyers, manage your sales, and receive your payment after delivery is confirmed.
+PART 6 — MONEY PROTECTION PAGE
+Headline
+Your Money Stays Safe Until Equipment Arrives
+Body
+Every A-Shopper purchase is protected by built-in Money Protection. You never pay a vendor directly, funds are held until you confirm delivery, and vendors ship knowing payment is locked in.
+CTA Button: Shop With Money Protection
+CTA Button: See How Buying Works
+How Money Protection Works — Four Steps
+01 — You pay with Money Protection: Funds locked securely, vendor cannot access them yet.
+02 — Vendor dispatches: Equipment is shipped or prepared for delivery.
+03 — You confirm delivery: Inspect the equipment and approve in-app.
+04 — Payment released: Vendor receives payout after your confirmation.
+Image/Visual: A horizontal 4-step flow diagram (Pay, Dispatch, Confirm, Release), connected by arrows, matching the 4 steps above.
+Split Payment
+Sometimes, your payment for an order isn’t complete. With Split Payment, you can ask another person to help you complete it from their end, while your money stays protected in our Money Protection until delivery is confirmed. Each contributor can also generate an invoice for their share of the payment.
+Why Money Protection Matters
+For Buyers
+Your money stays safe: When you pay, funds are held securely. The vendor cannot access them until you confirm delivery.
+Verified vendors only: Check ratings, reviews, and verification badges before you spend, trade with more confidence.
+Dispute if it doesn't match: If equipment doesn't match the listing, open a dispute in-app. Your payment stays protected while it's reviewed.
+Full transparency: Payment, dispatch, delivery, and release are logged in the app so you always know order status.
+For Vendors
+Guaranteed buyer funds: You only dispatch after payment is secured, so you're not shipping against an empty promise.
+Clear payout timing: Once the buyer confirms delivery, payout is released. Track every step from the vendor app.
+Image/Visual: An icon row (lock, verified badge, refund arrow, checklist), one icon per point above.
+Money Protection FAQs
+When does the vendor get my money?
+Only after you confirm delivery in the app. Until then, your payment stays protected and the vendor cannot withdraw it.
+What if the equipment doesn't match the listing?
+You can open a dispute directly in the app. Your payment stays protected while our team reviews it, and a refund is processed if the dispute is upheld.
+Do I ever pay the vendor directly?
+No. All payments go through A-Shopper's Money Protection system. You should never be asked to pay a vendor outside the app.
+Can vendors see that payment is secured before shipping?
+Yes. Vendors are notified once your payment is secured, so they can dispatch your order with confidence, without ever accessing your funds directly.
+Closing CTA
+Shop equipment with confidence. Download A-Shopper and buy or rent engineering equipment with Money Protection on every order.
+PART 7 — HELP CENTER / FAQ PAGE
+Headline
+Frequently Asked Questions
+Body
+Answers about buying, renting, Money Protection payments, vendor selling, and getting support on A-Shopper.
+CTAs
+Get the App / Contact Support
+Category Tabs
+Buying & Renting / Payments & Money Protection / For Vendors / Account & Support
+Buying & Renting
+What types of equipment can I buy or rent?
+A-Shopper covers the full engineering and industrial space: power tools, hand tools, heavy machinery (excavators, loaders, generators), welding equipment, compressors, safety gear, scaffolding, and equipment rentals. If it's engineering or industrial equipment, you'll find it on A-Shopper.
+Can I negotiate the price with a vendor?
+Yes. You can chat directly with a vendor in-app to ask questions, negotiate pricing, or request a custom quote before you pay.
+How does delivery work, and what if my equipment doesn't arrive or match?
+Once dispatched, you can track your delivery right in the app, powered by your logistics partner's tracking system. If your equipment doesn't arrive or doesn't match the listing, you can open a dispute in-app while your payment stays protected.
+Can I pay in my local currency?
+Yes. A-Shopper allows you to pay in your local currency, so you do not have to exchange currencies yourself before making a purchase.
+Payments & Money Protection
+Do I have to use Money Protection when I buy?
+Yes. Money Protection helps secure your payment when you purchase through A-Shopper. Your payment is held securely and released to the vendor after you confirm that your equipment has been delivered.
+CTA Button: Learn More About Money Protection
+For Vendors
+How do I become a vendor?
+Add your equipment from your phone and start listing right away. It's free to join, there are no subscription fees, and you only pay when you make a sale.
+When do I get paid as a vendor?
+Once a buyer confirms delivery, your payment is released to you through Money Protection.
+Account & Support
+Is there a web version, or is everything on the mobile app?
+A-Shopper currently runs on the mobile app for iOS and Android. Download the app to browse, chat with vendors, and shop.
+Footer
+Still have questions? Can't find what you need? Reach our support team and we'll help you get unstuck.
+CTA Button: Email Support
+CTA Button: Contact Us
+
+PART 8 — TERMS & CONDITIONS
+Kept exactly as provided, unedited. This is a legal document and should be reviewed/approved by legal counsel, not revised as marketing content.
+Terms & Conditions of Use
+Platform terms governing all Users, Buyers, Sellers, Service Providers, Renters & Developers. Kindly read these Terms carefully before using the A-Shopper Platform. By accessing, registering, or using the Platform in any capacity, you agree to be legally bound by these Terms. If you do not agree, you must not access or use the Platform.
+Applicable globally · Effective 2026 · Version 1.0 · Jurisdiction: Federal Republic of Nigeria.
+Website: www.a-shopper.com · Related: Privacy Policy
+On this page
+1. About A-Shopper
+2. Marketplace Intermediary
+3. Definitions
+4. Document Hierarchy
+5. Electronic Agreement
+6. User Types
+7. Account & KYC
+8. AML Compliance
+9. Sanctions & Export
+10. Vendor Obligations
+11. Vendor Performance
+12. Service Providers
+13. Rental Services
+14. Bulk & Wholesale
+15. Prohibited Items
+16. User Reporting
+17. Non-Circumvention
+18. Intellectual Property
+19. Promoted Listings
+20. Consumer Protection
+21. Payments & Fees
+22. Logistics & Delivery
+23. Data Privacy
+24. Platform Security
+25. Feedback
+26. Reviews & Ratings
+27. User Disputes
+28. API Terms
+29. Beta Features
+30. Limitation of Liability
+31. User Indemnity
+32. Availability
+33. Third-Party Services
+34. Suspension & Termination
+35. Dormant Accounts
+36. Press & Endorsements
+37. Accessibility
+38. Assignment
+39. Force Majeure
+40. Modification
+41. Notices
+42. Governing Law
+43. Platform Disputes
+44. Survival
+45. Severability
+46. Waiver
+47. Entire Agreement
+48. Contact Information
+Last Updated: January 2026 · Version 1.0 · Language: English (Governing) · Jurisdiction: Federal Republic of Nigeria (Global Application)
+KINDLY READ THESE TERMS & CONDITIONS CAREFULLY BEFORE USING THE A-SHOPPER PLATFORM. BY ACCESSING, REGISTERING, OR USING THE PLATFORM IN ANY CAPACITY INCLUDING AS A BUYER, SELLER, SERVICE PROVIDER, RENTER, DEVELOPER, OR GUEST; YOU AGREE TO BE LEGALLY BOUND BY THESE TERMS. IF YOU DO NOT AGREE, YOU MUST NOT ACCESS OR USE THE PLATFORM.
+1. About A-Shopper Global Limited and the Platform
+1.1 A-Shopper Global Limited ("A-Shopper", "we", "us", or "our") is a company incorporated under the laws of the Federal Republic of Nigeria, operating a dynamic engineering tools e-commerce marketplace connecting Nigerian, African and Global businesses with verified suppliers, manufacturers, and distributors, powered by proprietary technology, data systems, and logistics infrastructure.
+1.2 The Platform supports the following commerce models:
+Business-to-Business (B2B): businesses procuring engineering tools and equipment from verified vendors;
+Business-to-Consumer (B2C): businesses selling directly to individual end-users;
+Consumer-to-Consumer (C2C): individuals buying and selling tools and equipment among themselves;
+Service-to-Service: professionals and businesses exchanging engineering-related services; and
+Rental Commerce: listing, renting, and managing engineering tools, equipment, and assets.
+1.3 These Terms and Conditions ("Terms") govern your access to and use of the A-Shopper website, mobile application, APIs, and all related services (collectively, the "Platform").
+1.4 By registering, accessing, or using the Platform in any capacity, you enter into a legally binding agreement with A-Shopper Global Limited. These Terms should be read alongside our Privacy Policy, Cookie Policy, and any role-specific terms applicable to your User type.
+2. Platform as Marketplace Intermediary
+2.1 A-Shopper operates as a technology marketplace intermediary, providing the infrastructure, systems, and tools that enable Users to connect, transact, and do business. A-Shopper is NOT a party to any transaction between Users unless explicitly stated otherwise.
+2.2 A-Shopper does NOT:
+Own, manufacture, supply, stock, or warehouse any product listed on the Platform;
+Employ, engage, or supervise any Service Provider on the Platform;
+Own or maintain any equipment, tool, or asset listed for rental;
+Make representations or warranties about the quality, safety, legality, or suitability of any Listing; or
+Act as a commercial agent, reseller, or distributor of any Vendor's products.
+2.3 Each Transaction is a direct contract between the Buyer and the Vendor, Service Provider, or Renter. A-Shopper facilitates the Transaction but is not contractually responsible for its performance, quality, or outcome.
+2.4 A-Shopper's involvement is limited to: (a) providing Platform infrastructure; (b) facilitating payment and escrow; (c) providing dispute facilitation; and (d) enforcing Platform policies.
+2.5 Nothing in these Terms creates any agency, partnership, joint venture, employment, or franchise relationship between A-Shopper and any User.
+3. Definition and Interpretation
+3.1 In these Terms, the following definitions apply:
+"Account" means a registered user account on the Platform;
+"AML" means Anti-Money Laundering obligations under the Money Laundering (Prevention and Prohibition) Act 2022;
+"Buyer" means any User purchasing products, services, or rentals through the Platform;
+"Chargeback" means a reversal of a payment transaction initiated by a User's bank or card issuer;
+"Commission" means the fee charged by A-Shopper on completed Transactions, as published on the Platform;
+"Content" means all text, images, listings, descriptions, data, reviews, ratings, and material uploaded to the Platform;
+"Cookie Policy" means A-Shopper's policy governing cookies and tracking technologies, available on the Platform;
+"Dispute" means any disagreement, claim, or complaint arising between Users or between a User and A-Shopper;
+"Escrow" means the secure holding of Transaction funds by A-Shopper pending fulfilment and release conditions;
+"Intellectual Property" means all patents, copyrights, trademarks, trade secrets, software, designs, and proprietary technology owned by A-Shopper;
+"KYC" means Know Your Customer identity verification procedures required under applicable law;
+"Listing" means a product, service, or rental published on the Platform by a Vendor or Service Provider;
+"Order" means a confirmed purchase, service booking, or rental agreement initiated through the Platform;
+"Platform" means the A-Shopper website, mobile app, APIs, and all associated digital services;
+"Prohibited Items" means products, services, or content that are illegal, restricted, or prohibited under these Terms or applicable law;
+"Promoted Listing" means a Listing for which the Vendor has paid for enhanced visibility or placement on the Platform;
+"Rental" means the temporary use of a tool, equipment, or asset listed on the Platform for a rental fee;
+"Sanctions" means trade, financial, or economic sanctions administered by any applicable authority including the UN, US OFAC, EU, or Nigerian authorities;
+"Service Provider" means a User offering engineering-related professional services on the Platform;
+"Transaction" means any completed or attempted purchase, service engagement, or rental through the Platform;
+"User" means any individual or entity accessing or using the Platform;
+"Vendor" or "Seller" means a verified supplier, manufacturer, distributor, or individual listing products on the Platform; and
+"We", "Us", "Our" means A-Shopper Global Limited.
+3.2 References to any statute include all amendments and re-enactments. "Including" is not limiting. Headings are for convenience only. In case of conflict between translated versions of these Terms, the English version governs.
+4. Document Hierarchy and Incorporated Terms
+4.1 These Terms form the master agreement between you and A-Shopper. The following additional documents are incorporated into these Terms by reference and together form the complete agreement between the Parties:
+Privacy Policy: governing the collection, use, and protection of personal data;
+Cookie Policy: governing the use of cookies and tracking technologies;
+Vendor Agreement: additional terms applicable to Vendors and Sellers;
+Service Provider Terms: additional terms applicable to Service Providers;
+Rental Terms: additional terms applicable to rental transactions;
+Escrow Policy: governing the holding and release of Transaction funds;
+Refund Policy: governing refund eligibility, timelines, and processes; and
+Bulk Transaction Dispute Policy: governing disputes arising from bulk and wholesale orders.
+4.2 Document Hierarchy
+In the event of a conflict or inconsistency between these Terms and any incorporated document, the following order of precedence applies:
+(i) These Terms and Conditions (highest authority);
+(ii) Role-specific terms (Vendor Agreement, Service Provider Terms, Rental Terms);
+(iii) Operational policies (Escrow Policy, Refund Policy, Bulk Transaction Dispute Policy); and
+(iv) Privacy Policy and Cookie Policy.
+4.3 All incorporated documents are published on the Platform at www.a-shopper.com and may be updated from time to time in accordance with Clause 41.
+5. Electronic Agreement and Consent
+5.1 By clicking "I Agree", ticking an acceptance checkbox, completing registration, or accessing or using the Platform in any way, you confirm that you have read, understood, and agreed to be legally bound by these Terms.
+5.2 This electronic acceptance constitutes a valid and binding electronic signature under the Cybercrimes (Prohibition, Prevention, etc.) Act 2015 and all applicable Nigerian electronic transaction law.
+5.3 You consent to receiving communications from A-Shopper electronically, including by email, in-Platform notification, and push notification, and agree that such communications satisfy any legal requirement for written notice.
+5.4 A-Shopper may record your acceptance of these Terms, including IP address, timestamp, and device information, as evidence of your agreement.
+6. User Types and Platform Access
+6.1 The Platform serves the following categories of Users:
+User TypeDescriptionCommerce Model
+BuyerIndividual or business purchasing engineering tools or servicesB2C / B2B / C2C
+Seller / VendorVerified supplier, manufacturer, or distributor listing productsB2B / B2C / C2C
+Service ProviderProfessional or business offering engineering-related servicesService-to-Service
+RenterIndividual or business listing or renting tools, equipment, or assetsRental Commerce
+ResellerIntermediary purchasing in bulk for onward sale to end usersB2B / B2C
+Guest UserVisitor browsing the Platform without a registered accountView Only
+6.2 Each User type is subject to these Terms and any additional role-specific terms as published on the Platform from time to time.
+6.3 A-Shopper reserves the right to classify, reclassify, or limit User access at its sole discretion.
+7. Account Registration, Eligibility and KYC
+7.1 To access the full features of the Platform, you must register for an Account. By registering, you confirm that:
+a. You are at least 18 years of age and have the legal capacity to enter into a binding contract;
+b. You are registering on your own behalf or are duly authorised to bind a legal entity;
+c. All information provided is true, accurate, current, and complete; and
+d. You will promptly update your Account information to keep it current.
+7.2 Minors
+The Platform is strictly not intended for persons under the age of 18. If A-Shopper becomes aware that a minor has registered, the Account will be immediately suspended and all associated Transactions reversed where possible. Parents or guardians who become aware of minor usage must notify A-Shopper at support@ashopper.com immediately.
+7.3 KYC Verification
+A-Shopper reserves the right, and in certain cases is legally required, to conduct identity and business verification (KYC) before activating full Platform access. You agree to provide documents including: government-issued photo identification; proof of address; business registration documents; and any additional documentation required for AML compliance.
+7.4 Failure to complete KYC within a reasonable timeframe may result in Account suspension or limitation of Platform features.
+7.5 You are solely responsible for maintaining the confidentiality of your Account credentials. Notify A-Shopper immediately of any unauthorised use.
+7.6 You may not create multiple Accounts without A-Shopper's prior written consent.
+8. Anti-Money Laundering (AML) and Financial Crime Compliance
+8.1 By using the Platform, you represent and warrant that: (a) you are not a Politically Exposed Person (PEP), sanctioned individual, or entity on any Nigerian, UN, US OFAC, or EU sanctions list; (b) all funds used are from legitimate and lawful sources; (c) you are not using the Platform to launder money, finance terrorism, or facilitate any other financial crime; and (d) all Transactions reflect genuine commercial activity.
+8.2 A-Shopper reserves the right to: freeze or delay Transactions pending AML investigation; request documentation to verify source of funds; report suspicious transactions to the Nigerian Financial Intelligence Unit (NFIU) without prior notice; and terminate Accounts associated with financial crime.
+8.3 A-Shopper is not liable for any loss arising from the freezing, withholding, or reporting of funds where financial crime is reasonably suspected.
+8.4 Transactions above amounts specified by the CBN or NFIU guidelines may trigger mandatory enhanced due diligence and reporting obligations.
+9. Sanctions and Export Controls Compliance
+9.1 You must not use the Platform if you are: (a) located in or subject to comprehensive sanctions; (b) listed on any Nigerian, UN, US, or EU sanctions or restricted parties list; or (c) acting on behalf of any sanctioned entity.
+9.2 The export or re-export of any engineering tool, equipment, or technology purchased through the Platform may be subject to Nigerian and international export control laws. Buyers are solely responsible for obtaining required export or import licences.
+9.3 A-Shopper reserves the right to decline, block, or reverse any Transaction that may violate applicable sanctions or export control laws, without liability.
+10. Vendor and Seller Obligations
+10.1 To list products or services, Vendors must complete A-Shopper's Vendor Verification process and maintain: accurate and non-misleading Listings; all required licences and regulatory approvals; sufficient stock to fulfil Orders; compliance with applicable product safety standards; and timely responses within A-Shopper's stipulated timeframes.
+10.2 Product Standards Compliance
+Vendors must ensure compliance with: Standards Organisation of Nigeria (SON) certification requirements; NAFDAC requirements where applicable; NESREA environmental standards; and all applicable international product safety standards for the relevant product category.
+10.3 Vendors warrant all listed products are genuine, not counterfeit, not stolen, legally sourced, and compliant with all applicable laws. Counterfeit goods will result in immediate Account termination and referral to relevant authorities.
+10.4 Vendors must honour confirmed Orders. Unilateral cancellations without cause and proper notice may attract platform penalties.
+10.5 Product Recalls
+If a product listed on the Platform is subject to a safety recall, the Vendor must immediately notify A-Shopper and assist in contacting affected Buyers.
+11. Vendor Performance Standards
+11.1 All Vendors on the Platform must meet the following minimum performance standards on a rolling 90-day basis:
+MetricMinimum StandardConsequence of Breach
+Seller RatingMinimum 3.5 out of 5.0 (rolling 90 days)Warning, then suspension
+Order Fulfilment RateMinimum 90% of confirmed Orders fulfilledAccount review, suspension
+Response TimeWithin 24 hours of Buyer enquiryPerformance warning
+Dispute Resolution RateMaximum 10% of Transactions disputedProbationary status
+Cancellation RateMaximum 5% of confirmed Orders cancelledWarning, then restriction
+11.2 A-Shopper will notify Vendors of performance issues and provide a reasonable period to improve before taking action, except in cases of severe or repeated breaches.
+11.3 Vendors placed on probationary status may have their Listings restricted, promoted listings paused, or Account features limited until performance improves.
+11.4 Repeated failure to meet minimum performance standards may result in permanent Account suspension and removal from the Platform.
+11.5 A-Shopper reserves the right to revise performance thresholds with reasonable notice to Vendors.
+12. Service Provider Obligations
+12.1 Service Providers must: be qualified and competent to deliver the services offered; provide accurate descriptions, pricing, timelines, and qualification details; maintain all professional licences and regulatory approvals; deliver services with reasonable skill, care, and diligence; and obtain and maintain adequate professional indemnity or liability insurance.
+12.2 A-Shopper is a marketplace intermediary and is not liable for the quality, safety, timeliness, or outcome of any service delivered through the Platform.
+13. Rental Services
+13.1 Renters must treat all rented items with reasonable care and return them in the same condition, subject to fair wear and tear.
+13.2 Owners listing items warrant that all items are safe, functional, and accurately described.
+13.3 Rental fees, periods, deposits, and return conditions are as confirmed at the time of booking.
+13.4 Renters are fully liable for any damage, loss, or theft beyond fair wear and tear. A-Shopper may facilitate cost recovery from deposited funds or through legal means.
+13.5 Security deposits for high-value rentals will be held in escrow and released upon satisfactory return.
+13.6 A-Shopper reserves the right to impose additional verification or insurance requirements for high-value rentals.
+14. Bulk and Wholesale Transactions (B2B)
+14.1 Bulk and wholesale Transactions are subject to these additional terms:
+a. Minimum order quantities, bulk pricing, and wholesale rates are subject to Vendor confirmation;
+b. Bulk Orders above thresholds set by A-Shopper may require additional KYC or escrow arrangements;
+c. Volume discounts must be confirmed in writing through the Platform's Order system;
+d. Bulk Order cancellations may attract cancellation fees per the Vendor's stated policy; and
+e. Returns on bulk Orders are governed by A-Shopper's Bulk Transaction Dispute Policy.
+14.2 A-Shopper is not liable for loss arising from a Vendor's failure to honour bulk pricing commitments made outside the Platform.
+15. Prohibited Items, Services and Conduct
+15.1 Prohibited Items and Services
+Counterfeit, stolen, or unlawfully obtained goods;
+Weapons, ammunition, explosives, or dual-use items requiring special export licences;
+Hazardous, toxic, or radioactive materials without proper certification;
+Pirated software, unlicensed intellectual property, or fraudulent goods;
+Items prohibited under Nigerian law or the laws of the destination country; and
+Any product or service A-Shopper determines to be inappropriate, dangerous, or harmful.
+15.2 Prohibited Conduct
+Creating false, misleading, or fraudulent Listings or Accounts;
+Manipulating or incentivising reviews, ratings, or feedback;
+Using the Platform for money laundering, fraud, or any financial crime;
+Circumventing A-Shopper's payment system to transact off-Platform;
+Harassing, threatening, or abusing other Users or A-Shopper staff;
+Uploading malware, viruses, or harmful code to the Platform;
+Scraping or extracting Platform data without written authorisation;
+Impersonating any person, business, or A-Shopper; and
+Using the Platform in any manner that violates applicable law.
+16. User Reporting Mechanism
+16.1 A-Shopper maintains a reporting mechanism to enable Users to report violations, prohibited content, counterfeit goods, fraud, and misconduct on the Platform.
+16.2 To report a violation, Users may:
+a. Use the "Report" button available on each Listing and User profile;
+b. Submit a report via email to report@ashopper.com; or
+c. Contact A-Shopper's Customer Support team at support@ashopper.com.
+16.3 All reports must include: (a) a description of the alleged violation; (b) the URL or Listing ID of the relevant content; (c) the reporter's contact details; and (d) any supporting evidence available.
+16.4 A-Shopper will acknowledge all reports within 2 business days and will investigate all credible reports within 10 business days of receipt.
+16.5 A-Shopper will take action where a report is substantiated, which may include removing the offending Listing, suspending the reported Account, or referring the matter to relevant authorities.
+16.6 A-Shopper will protect the identity of reporters where reasonably practicable. Submitting a false or malicious report is a breach of these Terms and may result in Account suspension.
+16.7 By actively encouraging Users to report violations, A-Shopper does not assume a duty to identify all violations and is not liable for violations that are not reported to it.
+17. Non-Circumvention
+17.1 Users are strictly prohibited from circumventing A-Shopper's Platform and payment systems to conduct Transactions directly off-Platform with other Users they have met through the Platform.
+17.2 You must not: (a) request or provide payment details outside the Platform for completing a Transaction initiated on the Platform; (b) arrange delivery in exchange for payment made outside the Platform; (c) use the Platform solely to source contacts then transact off-Platform to avoid Commission; or (d) encourage any other User to transact outside the Platform.
+17.3 This prohibition applies for twelve (12) months after first contact between two Users through the Platform.
+17.4 Breach of this Clause may result in: immediate Account suspension or termination; forfeiture of escrow funds or Account balance; a charge equal to the Commission A-Shopper would have earned; and legal action for damages.
+18. Intellectual Property Rights
+18.1 All Intellectual Property on the Platform, including the A-Shopper brand, logo, trademarks, software, algorithms, platform design, source code, and proprietary processes, is owned exclusively by A-Shopper Global Limited.
+18.2 Users are granted a limited, non-exclusive, non-transferable, revocable licence to access and use the Platform solely for its intended purpose. No other rights are granted.
+18.3 By uploading Content, you grant A-Shopper a worldwide, royalty-free, non-exclusive licence to use, reproduce, display, distribute, and adapt such Content for Platform operation and promotion.
+18.4 You warrant that all Content you upload is original, does not infringe any third-party rights, and you have the right to grant the above licence.
+18.5 IP Infringement Notice and Takedown
+If you believe any Listing or Content infringes your intellectual property rights, submit a takedown notice to legal@ashopper.com including: your name, contact details, and proof of rights ownership; a description of the infringing content and its location; a good faith statement; and a declaration that the information is accurate. A-Shopper will investigate within 10 business days.
+19. Promoted and Sponsored Listings
+19.1 A-Shopper may offer Vendors the opportunity to purchase enhanced visibility or placement for their Listings through Promoted Listings. The following terms apply:
+a. Promoted Listings are clearly identified as such on the Platform with an appropriate label;
+b. A-Shopper does not endorse or guarantee the quality of any Promoted Listing by virtue of its promotion;
+c. Vendors purchasing Promoted Listings must ensure the promoted content complies with all applicable Listing standards under these Terms;
+d. Payment for Promoted Listings is non-refundable unless the promotion was unable to run due to A-Shopper's fault; and
+e. A-Shopper reserves the right to reject, remove, or discontinue any Promoted Listing that violates these Terms, without refund.
+19.2 A-Shopper does not permit competitors to use Promoted Listings to advertise against specific named competitors on the Platform.
+19.3 Pricing, formats, and availability of Promoted Listings are as published on the Platform and may be updated from time to time.
+19.4 Where a Promoted Listing turns out to be fraudulent, counterfeit, or in breach of these Terms, the Vendor is solely liable. A-Shopper's liability is limited to a refund of the promotion fee paid for that specific Listing.
+20. Consumer Protection Rights
+20.1 Nigerian Consumers
+Under the FCCPA 2018, Nigerian consumers have the right to: accurate and non-misleading product information; return defective or incorrectly described goods; safe products meeting applicable Nigerian safety standards; fair and transparent pricing without hidden charges; and escalate unresolved complaints to the Federal Competition and Consumer Protection Commission (FCCPC).
+20.2 International Consumers
+Where the laws of a consumer's jurisdiction provide mandatory consumer rights, including the European Union's 14-day right of withdrawal, A-Shopper will use reasonable endeavours to honour such rights in respect of Transactions where A-Shopper is directly involved.
+20.3 Returns and Refunds
+Buyers may return goods that are materially different from the Listing description, defective or damaged upon delivery, or not fit for the purpose described. Returns must be reported within 48 hours of delivery for standard goods and within 7 days for equipment or bulk orders. Refund timelines are governed by A-Shopper's Refund Policy.
+20.4 These provisions do not limit any additional statutory rights you may have under applicable local law.
+21. Payments, Fees and Financial Transactions
+21.1 All Transactions on the Platform must be processed through A-Shopper's secure payment infrastructure. By initiating a Transaction, you authorise A-Shopper to process payment on your behalf.
+21.2 Platform Commission
+A-Shopper charges a Commission on completed Transactions. Current rates are published on the Platform and may be updated with reasonable advance notice.
+21.3 Additional Fees
+A-Shopper may charge additional fees including listing fees, subscription fees, premium placement fees, and transaction processing fees. All applicable fees are published on the Platform before a User commits to any paid feature.
+21.4 Pricing
+All prices are in Nigerian Naira (NGN) unless otherwise stated. For international Transactions, currency conversion applies at prevailing exchange rates. Currency fluctuation risk is borne by the User.
+21.4.1 Notwithstanding clause 21.4 above, transactions can still be made in designated international currency.
+21.5 Payment Methods
+A-Shopper accepts payment through approved methods displayed on the Platform. Third-party payment processor terms apply.
+21.6 Split Payment
+A-Shopper may allow for split payments by buyer where the first payment shall be made immediately when placing order and subsequently after vendor has confirmed order, before delivery takes place.
+21.7 Escrow
+For eligible Transactions, payment is held in escrow until the Buyer confirms satisfactory receipt. Funds not claimed within 90 days may be subject to dormancy procedures.
+21.8 Automated Notification for Payment
+A-Shopper shall send an automated notification of payment to buyer via email upon completion of transaction by buyer.
+21.9 Chargeback Policy
+If you initiate a chargeback without first following A-Shopper's Dispute Resolution process, A-Shopper may: suspend or terminate your Account; dispute the chargeback using Transaction evidence; and recover any reversed funds plus a chargeback administration fee.
+21.10 Taxes
+You are solely responsible for all applicable taxes including VAT, withholding tax, and import duties.
+21.11 Fraud
+A-Shopper reserves the right to freeze funds, reverse Transactions, or suspend Accounts where fraud is suspected, without prior notice.
+22. Logistics, Delivery and Fulfilment
+22.1 Delivery is the primary responsibility of the Vendor except where A-Shopper provides integrated logistics services.
+22.2 Delivery timelines are estimates only. A-Shopper is not liable for delays caused by third-party logistics providers, customs, force majeure, or Vendor delays.
+22.3 Buyers must inspect deliveries upon receipt. Damage, shortage, or discrepancy must be reported within 48 hours of delivery.
+22.4 For international shipments, Buyers are responsible for import duties, customs fees, and destination-country regulatory compliance.
+22.5 Risk of loss passes to the Buyer upon delivery to the designated address, unless otherwise agreed in writing.
+23. Data Privacy, Cookies and NDPR Compliance
+23.1 By using the Platform, you consent to A-Shopper collecting and processing your personal data in accordance with our Privacy Policy.
+23.2 A-Shopper will not sell your personal data. Data may be shared with verified third-party providers solely for Platform operation.
+23.3 Cookies
+The Platform uses cookies and similar tracking technologies. By using the Platform, you consent to our use of cookies as described in the Cookie Policy. You may manage cookie preferences through your browser or Account settings.
+23.4 Your Rights
+You have the right to access, correct, delete, restrict, or port your personal data. Contact: privacy@ashopper.com.
+23.5 International Users consent to the transfer of their data to Nigeria for processing in accordance with Nigerian data protection law.
+24. Platform Security Obligations
+24.1 A-Shopper's Security Commitments
+A-Shopper is committed to maintaining reasonable and industry-appropriate security measures to protect the Platform and User data, including:
+a. Encryption of sensitive data, including payment information and personal data, in transit and at rest;
+b. Regular security assessments and penetration testing of the Platform;
+c. Access controls limiting internal access to User data to authorised personnel only;
+d. Incident response procedures to detect, contain, and remediate security breaches; and
+e. Prompt notification to affected Users in the event of a data breach affecting their personal data, in compliance with the NDPA 2023.
+24.2 User Security Responsibilities
+Users are responsible for:
+a. Keeping their Account credentials, passwords, and two-factor authentication codes secure and confidential;
+b. Using strong, unique passwords and enabling two-factor authentication where available;
+c. Ensuring their devices and browsers are updated and protected against malware; and
+d. Notifying A-Shopper immediately of any suspected unauthorised access to their Account.
+24.3 A-Shopper will never ask for your password via email, phone, or any channel outside the Platform's secure login flow. If you receive such a request, treat it as fraudulent and report it immediately to support@ashopper.com.
+24.4 Notwithstanding A-Shopper's security measures, no digital system is completely immune to security threats. A-Shopper does not guarantee absolute security and is not liable for losses arising from security incidents that could not have been reasonably prevented.
+25. User Feedback and Suggestions
+25.1 A-Shopper welcomes feedback, ideas, feature requests, and suggestions from Users to help improve the Platform.
+25.2 By submitting any feedback, suggestion, idea, or recommendation to A-Shopper through any channel, including email, in-Platform forms, surveys, or direct communication, you hereby:
+a. Irrevocably assign to A-Shopper all rights, title, and interest in such feedback, including all intellectual property rights, at no cost to A-Shopper;
+b. Acknowledge that A-Shopper may use, implement, modify, or discard such feedback entirely at its own discretion without obligation to you; and
+c. Confirm that you are not submitting any feedback that contains confidential or proprietary information belonging to a third party.
+25.3 A-Shopper is not obligated to acknowledge, respond to, compensate, or credit any User for submitted feedback, regardless of whether A-Shopper chooses to use it.
+26. User Content, Reviews and Ratings
+26.1 All Content must be honest, accurate, and based on genuine experience.
+26.2 A-Shopper prohibits: false or defamatory reviews; incentivised reviews; content infringing third-party rights; and content that is obscene, offensive, or unlawful.
+26.3 A-Shopper reserves the right to remove violating Content without notice or liability and does not endorse User-generated Content.
+27. Dispute Resolution Between Users
+27.1 In the event of a Transaction dispute: (a) parties should first attempt direct resolution within 72 hours; (b) if unresolved, either party may escalate to A-Shopper's Dispute Resolution Centre; (c) A-Shopper will issue a determination within 10 business days; and (d) A-Shopper's escrow determination is final and binding within the escrow system.
+27.2 A-Shopper is a neutral facilitator and is not liable for dispute outcomes between Users.
+28. API Terms
+28.1 A-Shopper uses a third party API and is subject to the terms and conditions of the third party API WHICH MAY BE PUBLISHED BY A-Shopper (if needs be).
+29. Beta Features and Early Access
+29.1 Beta features are provided on an as-is basis with no warranty. They may be unstable, incomplete, or discontinued at any time without notice.
+29.2 A-Shopper's liability for any loss arising from Beta features is excluded to the maximum extent permitted by law.
+29.3 Feedback on Beta features may be used by A-Shopper to improve the Platform without compensation to the User.
+30. Limitation of Liability
+30.1 THE PLATFORM IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
+30.2 A-Shopper does not warrant that the Platform will be uninterrupted or error-free; that all Listings are accurate; that products or services will meet expectations; or that the Platform will always be accessible.
+30.3 Tiered Liability Cap
+A-Shopper's aggregate liability to any User shall not exceed the amounts set out below:
+User CategoryLiability CapBasis
+B2C Consumer (Individual)NGN 500,000 or 3 months fees paid, whichever is lowerConsumer protection principle
+B2B Buyer (Business)NGN 5,000,000 or 3 months fees paid, whichever is lowerCommercial transaction scale
+Vendor / SellerNGN 10,000,000 or total commissions paid, whichever is lowerPlatform integrity exposure
+Service ProviderNGN 5,000,000 or total fees earned, whichever is lowerService liability basis
+Renter (High-Value)Full replacement value as declared in the ListingAsset protection
+30.4 A-Shopper shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of profit, data, or business, arising from use of the Platform.
+30.5 Nothing in these Terms limits A-Shopper's liability for death or personal injury caused by its negligence, or for fraud or fraudulent misrepresentation.
+31. User Indemnity
+31.1 You agree to indemnify and hold harmless A-Shopper Global Limited, its directors, officers, employees, and partners from all claims, losses, liabilities, damages, costs, and expenses arising from: (a) your use of the Platform; (b) your breach of these Terms; (c) your Content; (d) your violation of any applicable law or third-party rights; or (e) any Transaction you enter into through the Platform.
+32. Platform Availability and Maintenance
+32.1 A-Shopper aims for continuous Platform availability but does not guarantee uninterrupted access. The Platform may be temporarily unavailable due to maintenance, upgrades, or circumstances beyond A-Shopper's control.
+32.2 A-Shopper will provide reasonable advance notice of planned maintenance. A-Shopper is not liable for loss resulting from downtime or technical failure.
+33. Third-Party Services and Integrations
+33.1 The Platform may integrate or link to third-party services. A-Shopper does not control these services and is not responsible for their content, availability, or practices.
+33.2 Your use of third-party services is subject to those third parties' own terms and privacy policies.
+34. Account Suspension and Termination
+34.1 A-Shopper may suspend or terminate any Account, with or without notice, for: breach of these Terms; fraudulent or illegal activity; inaccurate Account information; persistent unresolved disputes; inactivity exceeding 12 months; or any reason necessary to protect Platform integrity.
+34.2 Upon termination, pending Orders must be fulfilled or cancelled per A-Shopper's policies. Escrow funds are disbursed per the Escrow Policy.
+34.3 You may close your Account at any time by contacting support@ashopper.com. Closure does not extinguish outstanding obligations.
+35. Dormant Account Policy
+35.1 An Account is considered dormant if there has been no login, Transaction, or Platform activity for a continuous period of twelve (12) months.
+35.2 A-Shopper will notify the Account holder by email at least 30 days before taking any action on a dormant Account.
+35.3 Following the notice period, A-Shopper may:
+a. Suspend or deactivate the dormant Account;
+b. Remove or delist any active Listings associated with the dormant Account;
+c. Transfer any unclaimed escrow funds to A-Shopper's dormant funds reserve, in compliance with applicable Nigerian law; and
+d. Retain or delete Account data in accordance with A-Shopper's data retention policy and the NDPA 2023.
+35.4 Users may reactivate a dormant Account by contacting support@ashopper.com, subject to re-verification of identity and KYC documents where required.
+35.5 A-Shopper is not liable for any loss arising from the deactivation of a dormant Account where proper notice was given.
+36. No Press Release and Endorsements Restriction
+36.1 Users must not, without A-Shopper's prior written consent:
+a. Issue any press release, public statement, or media communication that references A-Shopper, the Platform, or any commercial relationship with A-Shopper;
+b. Use A-Shopper's name, logo, trademarks, or branding in any advertising, marketing material, or promotional content;
+c. Imply or suggest that A-Shopper endorses, recommends, or is affiliated with the User's business, products, or services; or
+d. Reference their presence on the A-Shopper Platform in any way that could mislead the public about the nature of the relationship between the User and A-Shopper.
+36.2 Notwithstanding Clause 36.1, Vendors may state that their products are "available on A-Shopper" or "listed on www.a-shopper.com" in a factual and accurate manner, without implying any endorsement.
+36.3 Breach of this Clause may result in Account suspension and legal action to protect A-Shopper's brand and reputation.
+37. Accessibility
+37.1 A-Shopper is committed to making the Platform accessible to as wide a range of Users as possible, including Users with disabilities.
+37.2 A-Shopper works towards compliance with applicable accessibility standards, including the Web Content Accessibility Guidelines (WCAG), to the extent reasonably practicable.
+37.3 If you experience accessibility barriers while using the Platform or require the Terms and Conditions or any other document in an alternative format, please contact A-Shopper at support@ashopper.com and we will use reasonable efforts to accommodate your request.
+38. Assignment
+38.1 You may not assign, transfer, or sub-licence your Account or any rights under these Terms without A-Shopper's prior written consent.
+38.2 A-Shopper may freely assign these Terms, in whole or in part, to any affiliate, successor entity, or business acquirer without your consent, subject to written notice. Your rights under these Terms will be preserved on assignment.
+39. Force Majeure
+39.1 A-Shopper shall not be liable for any failure or delay caused by events beyond its reasonable control, including acts of God, natural disasters, war, civil unrest, government action, cyber-attacks, power outages, or telecommunications failures.
+39.2 A-Shopper will notify Users as soon as practicable and use reasonable efforts to resume normal operations.
+40. Modification to Terms and Platform
+40.1 A-Shopper reserves the right to modify these Terms at any time. Updated Terms will be posted on the Platform with a revised Last Updated date and version number.
+40.2 For material changes, A-Shopper will notify registered Users by email or in-Platform notification at least 14 days before changes take effect.
+40.3 Continued use of the Platform after the effective date of changes constitutes acceptance of the updated Terms.
+40.4 A-Shopper may modify, suspend, or discontinue any Platform feature at any time without liability.
+41. Notices
+41.1 Any formal legal notice from A-Shopper to a User will be sent to the email address registered on the User's Account or published on the Platform. Notice is deemed received: (a) immediately upon sending if sent by email during normal business hours; (b) on the next business day if sent after business hours; or (c) upon posting on the Platform for general notices applicable to all Users.
+41.2 Any formal legal notice from a User to A-Shopper must be sent in writing to legal@ashopper.com or by registered post to A-Shopper Global Limited's registered office in Nigeria.
+41.3 Notices sent by registered post are deemed received five (5) business days after posting within Nigeria and ten (10) business days after posting for international correspondence.
+41.4 It is the User's responsibility to maintain an accurate and active email address on their Account. A-Shopper is not liable for any loss arising from a User's failure to receive notice due to an outdated or inactive email address.
+42. Governing Law, Jurisdiction and Governing Language
+42.1 These Terms are governed by and construed in accordance with the laws of the Federal Republic of Nigeria, including the Federal Competition and Consumer Protection Act 2018, the NDPA 2023, the Cybercrimes Act 2015, the Money Laundering (Prevention and Prohibition) Act 2022, and all other applicable Nigerian legislation.
+42.2 These Terms shall be enforced to the extent permitted by applicable local law. Mandatory consumer rights under applicable local law are not excluded.
+42.3 The Parties submit to the non-exclusive jurisdiction of Nigerian courts for any matter not referred to arbitration.
+42.4 Governing Language
+These Terms are drafted in English. In the event of any conflict between the English version and any translated version, the English version shall prevail.
+43. Dispute Resolution Between Platform and Users
+43.1 Negotiation: Any dispute between you and A-Shopper shall be referred first to good-faith negotiation through A-Shopper's support channels within 14 days of written notice.
+43.2 Mediation: If unresolved, the dispute shall be referred to mediation in Lagos, Nigeria, before a mutually agreed mediator within 30 days.
+43.3 Arbitration: If mediation fails, the dispute shall be resolved by binding arbitration under the Arbitration and Mediation Act 2023, with the seat of arbitration in Lagos, conducted in English, before a sole arbitrator. Failing agreement on appointment, the Chartered Institute of Arbitrators (Nigeria Branch) shall appoint.
+43.4 Class Action Waiver: All claims shall be brought individually and not as part of any class or representative action, to the extent permitted by law.
+43.5 A-Shopper may seek emergency injunctive or equitable relief from any court at any time without first pursuing the above steps.
+44. Survival of Obligations
+44.1 The following Clauses shall survive the termination, expiry, or cancellation of these Terms or a User's Account and shall continue to bind the relevant parties indefinitely or for the periods specified:
+a. Clause 15 (Intellectual Property Rights): survives indefinitely;
+b. Clause 17 (Non-Circumvention): survives for twelve (12) months from Cessation;
+c. Clause 23 (Data Privacy): survives for the duration of A-Shopper's data retention obligations under the NDPA 2023;
+d. Clause 25 (User Feedback and Suggestions): survives indefinitely;
+e. Clause 30 (Limitation of Liability): survives indefinitely;
+f. Clause 31 (User Indemnity): survives indefinitely;
+g. Clause 36 (No Press Release and Endorsement Restriction): survives for two (2) years from Cessation;
+h. Clause 41 (Notices): survives for the duration of any ongoing dispute;
+i. Clause 42 (Governing Law): survives indefinitely;
+j. Clause 43 (Dispute Resolution): survives indefinitely; and
+k. Clause 45 (Severability) and Clause 46 (Waiver): survive indefinitely.
+44.2 Termination of these Terms or a User's Account does not affect any rights, obligations, liabilities, or Transactions that arose before the date of termination.
+45. Severability
+If any provision is held invalid or unenforceable, it shall be modified to the minimum extent necessary to render it valid. All remaining provisions continue in full force and effect.
+46. Waiver
+No failure or delay by A-Shopper in enforcing any right shall constitute a waiver. No single exercise of any right shall preclude further exercise of that or any other right.
+47. Entire Agreement
+These Terms, together with all documents incorporated by reference under Clause 4, constitute the entire agreement between you and A-Shopper Global Limited regarding your use of the Platform and supersede all prior understandings and arrangements.
+48. Contact Information
+ContactDetails
+CompanyA-Shopper Global Limited
+General Enquiriesinfo@ashopper.com
+Customer Supportsupport@ashopper.com
+Data Privacyprivacy@ashopper.com
+Legal / IPlegal@ashopper.com
+AML / Compliancecompliance@ashopper.com
+Report Violationsreport@ashopper.com
+Websitewww.a-shopper.com
+By accessing or using the A-Shopper Platform, you confirm that you have read, understood, and agree to be legally bound by these Terms and Conditions.
+© 2026 A-Shopper Global Limited. All Rights Reserved. https://www.a-shopper.com
+We'd love to hear from you
+Questions about buying, selling, partnerships, or support? Send us a message and our team will get back to you.
+support@ashopper.africa
+General support
+Help with your account, orders, or app experience.
+support@ashopper.africa
+Vendor & partnerships
+Onboarding, supplier programs, and business inquiries.
+Become a vendor
+FAQs
+Quick answers about escrow, buying, rentals, and selling.
+Browse FAQs
+Email us directly
+Prefer email? Reach the team anytime at our support inbox.
+Open mail app
+Send a message
+Fill in the form below and we'll follow up from our support inbox.
+Full name
+Jane Doe
+Email
+jane@company.com
+Subject
+Select a topic
+Message
+Tell us how we can help…
+Send message
+
+
+PART 9 — PRIVACY POLICY
+Kept exactly as provided, unedited. This is a legal document and should be reviewed/approved by legal counsel, not revised as marketing content.
+Privacy Policy
+How we collect, use, protect, share, and govern your personal data. This Policy is legally binding and forms part of our Terms & Conditions. By accessing or using the Platform you confirm that you have read and understood this Policy. If you do not agree, please do not use the Platform.
+Primary framework: Nigeria Data Protection Act 2023 (NDPA 2023) | GAID 2025. Supplementary: EU GDPR | UK GDPR | CCPA/CPRA | POPIA.
+Website: www.a-shopper.com · DPO: privacy@ashopper.com
+On this page
+1. Who We Are
+2. Scope
+3. Personal Data We Collect
+4. How We Collect
+5. Lawful Basis
+6. How We Use
+7. Data Sharing
+8. International Transfers
+9. Retention
+10. Security
+11. Your Rights
+12. Cookies
+13. Children
+14. Marketing
+15. Automated Decisions
+16. DPIAs
+17. Vendor Data
+18. User-to-User
+19. Third-Party Links
+20. International Users
+21. Minimisation & Accuracy
+22. Penalties
+23. Whistleblower
+24. Accessibility
+25. Changes
+26. Contact & Complaints
+Last Updated: May 2026 · Effective: 1 June 2026 · Version 1.0 Legally Verified
+DetailInformation
+Registered NameA-Shopper Global Limited
+RC NumberRC: 7835618
+Registered Address[Registered Office Address], Lagos, Federal Republic of Nigeria
+DPO Emailprivacy@ashopper.com — all data subject rights requests (NDPA 2023 s.32)
+Privacy Policyhttps://www.a-shopper.com/privacy
+Cookie Policyhttps://www.a-shopper.com/cookies
+Customer Supportsupport@ashopper.com
+Legallegal@ashopper.com
+Compliance / AMLcompliance@ashopper.com
+Supervisory AuthorityNigeria Data Protection Commission (NDPC) — established under NDPA 2023 s.4
+NDPC Website / Complaintswww.ndpc.gov.ng | complaints@ndpc.gov.ng
+DCPMI RegistrationRegistered with NDPC as Data Controller of Major Importance under NDPA 2023 s.44
+1. Who We Are: Data Controller & Data Protection Officer
+1.1 A-Shopper Global Limited ("A-Shopper", "we", "us", or "our") is the Data Controller of your personal data as defined under the Nigeria Data Protection Act 2023 (NDPA 2023). As Data Controller, A-Shopper determines the purposes and means of processing your personal data and bears full legal responsibility for ensuring compliance with the NDPA 2023 and the NDPA General Application and Implementation Directive 2025 (GAID 2025), which took effect on 19 September 2025 and replaced the NDPR 2019 as the primary implementing instrument.
+1.2 A-Shopper is a company incorporated under the laws of the Federal Republic of Nigeria (RC: 7835618), with its registered office at [Registered Office Address], Lagos, Federal Republic of Nigeria. A-Shopper operates a dynamic engineering tools e-commerce marketplace connecting Nigerian, African and Global businesses with verified suppliers, manufacturers, and distributors — offering B2B, B2C, C2C, service-to-service, and rental commerce solutions worldwide.
+1.3 Governing Law & Jurisdiction
+This Privacy Policy and all data processing activities of A-Shopper are governed by the laws of the Federal Republic of Nigeria. The primary applicable framework is the Nigeria Data Protection Act 2023 as supplemented by the GAID 2025. Supplementary international frameworks (EU GDPR, UK GDPR, CCPA/CPRA, POPIA) apply to the extent required by law for Users in those jurisdictions. Where there is conflict, NDPA 2023 shall prevail for Nigerian-domiciled processing.
+1.4 Data Protection Officer (DPO)
+In compliance with NDPA 2023 s.32, A-Shopper has designated a dedicated Data Protection Officer with expert knowledge of data protection law and practices. The DPO is responsible for: overseeing data protection compliance; handling all data subject rights requests; advising on DPIAs; and liaising with the NDPC. Contact: privacy@ashopper.com (all data subject rights requests).
+1.5 Privacy by Design & Default (NDPA 2023 s.24)
+A-Shopper embeds data protection into all Platform systems and processes from inception, applying the principles of data minimisation, purpose limitation, storage limitation, and privacy by default across all operations.
+1.6 Records of Processing Activities (RoPA)
+A-Shopper maintains comprehensive Records of Processing Activities as required under NDPA 2023, maintained by the DPO and available to the NDPC on request.
+1.7 Annual Compliance Audit Return (CAR)
+As a DCPMI, A-Shopper files an annual Compliance Audit Return (CAR) with the NDPC by 31 March each year, conducted through an NDPC-licensed Data Protection Compliance Organisation (DPCO) per NDPA 2023 s.44 and GAID 2025.
+2. Scope of This Privacy Policy
+2.1 This Privacy Policy applies to all personal data A-Shopper collects and processes when you:
+Visit, browse, or use the A-Shopper website or mobile application (Android and iOS);
+Register for an Account or undergo KYC/Vendor verification;
+Place or receive an Order, booking, rental, or service engagement through the Platform;
+Communicate with A-Shopper or other Users through any Platform channel;
+Subscribe to marketing communications or participate in promotions or surveys;
+Access A-Shopper's APIs as a developer or technical integration partner;
+Interact with A-Shopper through social media, events, or offline channels; or
+Browse as a Guest User without a registered Account.
+2.2 This Policy applies to all User categories: Buyers, Vendors, Sellers, Service Providers, Renters, Resellers, API Users, and Guest Users — worldwide.
+2.3 This Policy forms part of our Terms & Conditions and should be read alongside our Cookie Policy and any role-specific data processing notices applicable to your User type.
+2.4 This Policy does not govern the data practices of third-party websites, applications, or services linked to or integrated with our Platform.
+3. Personal Data We Collect
+3.1 We collect personal data you provide directly, data generated automatically through Platform use, and data received from trusted third-party sources:
+CategoryData Points CollectedPurpose
+Identity DataFull legal name, username, date of birth, gender, nationality, government-issued ID number (NIN, passport, driver's licence)Account creation, KYC verification, fraud prevention
+Contact DataEmail address, phone number(s), delivery address(es), billing address. Next of kin contact collected on voluntary, explicit-consent basis only for account recovery in exceptional circumstances.Order fulfilment, communications, customer support, account recovery
+Financial DataBank account details, tokenised card data (full card numbers are NEVER stored), payment history, wallet balance, escrow recordsPayment processing, refunds, escrow management, AML compliance
+Transaction DataOrder history, items purchased, cart data, rental records, service bookings, returns, cancellations, dispute recordsOrder management, analytics, dispute resolution
+KYC & Compliance DataGovernment ID documents, CAC certificate, Tax Identification Number (TIN under the Nigeria Tax Act), proof of address, directors' details, PEP and sanctions screening resultsKYC verification, AML compliance under ML(PP)A 2022, vendor onboarding
+Technical DataIP address, device ID, browser type and version, operating system, screen resolution, login timestamps, session tokens, referral URLs. MAC addresses are NOT collected.Platform security, fraud detection, session management
+Usage & Behavioural DataPages visited, search queries, click patterns, product views, session duration, feature usage, A/B test groupPersonalisation, analytics, product improvement, marketing optimisation
+Communications DataPlatform messages between Users, support tickets, live chat transcripts, email correspondence with A-Shopper, review contentCustomer support, dispute resolution, compliance monitoring, fraud detection
+Profile DataUsername, profile photo, business description, reviews posted, ratings, wishlist items, vendor performance scorePlatform experience, trust and safety, vendor quality management
+Location DataApproximate location from IP address; precise GPS location only where User explicitly grants device permissionLogistics optimisation, localised listings, fraud detection, regulatory compliance
+Marketing & Preference DataNewsletter opt-in/out status, communication preferences, promotional campaign engagement, product category interestsTargeted marketing (consent-based only), personalisation, campaign measurement
+Vendor & Business DataBusiness name, RC number, TIN (Nigeria Tax Act), product catalogue, pricing data, inventory levels, fulfilment metrics, payout bank detailsVendor onboarding, quality assurance, payment disbursement, regulatory compliance
+3.2 Special Category Data (NDPA 2023 s.30)
+A-Shopper does not intentionally or routinely collect special category personal data. Where such data is collected in exceptional circumstances, explicit written consent is obtained in advance and a specific processing notice is provided.
+3.3 Data About Third Parties
+If you provide personal data about another person, you confirm that: (a) you have the legal right to share their data; (b) you have informed them about this Privacy Policy; and (c) they are aware their data will be processed as described herein.
+3.4 Mandatory vs. Optional Data
+Fields marked mandatory during registration, KYC, or checkout are required for service delivery. Optional fields are clearly labelled.
+4. How We Collect Your Personal Data
+4.1 Data You Provide Directly
+Registration and Account creation: name, email, password, phone number;
+KYC verification submissions: identity documents, proof of address, business documents;
+Order placement and checkout: delivery address, payment details;
+Vendor onboarding: business registration, TIN (Nigeria Tax Act), bank account details;
+Customer support interactions: tickets, live chat, email enquiries; and
+Reviews, ratings, Platform feedback, and marketing preference settings.
+4.2 Data Collected Automatically
+Cookies, web beacons, pixel tags, session storage, and similar tracking technologies — see Section 12 and GAID 2025 Art.19;
+Server access logs: IP address, access time, pages requested, HTTP referrer;
+Device and browser information: device model, OS version, browser type, screen resolution; and
+Location data: approximate location from IP address; precise GPS location only with explicit User device permission. MAC addresses are not collected.
+4.3 Data Received from Third Parties
+Identity verification and KYC results from NDPC-accredited verification partners;
+Payment and fraud risk signals from CBN-licensed payment processors;
+Business registration data from the Corporate Affairs Commission (CAC);
+Sanctions, PEP, and adverse media screening results from accredited compliance providers; and
+Social media profile data where you register or log in via a social platform.
+5. Lawful Basis for Processing Your Personal Data
+5.1 A-Shopper processes your personal data only where a valid and documented lawful basis exists under NDPA 2023 s.25. The six lawful bases under s.25(1) are: (a) Consent; (b) Contract; (c) Legal obligation; (d) Vital interests; (e) Public task/interest; (f) Legitimate interests:
+Processing ActivityLawful BasisNDPA 2023 s.25(1)Notes
+Account registration & managementContracts.25(1)(b)Necessary to provide Platform services to User
+Order processing & fulfilmentContracts.25(1)(b)Required to execute Transactions between parties
+Payment processing & escrowContract + Legal obligations.25(1)(b)+(c)Compliance with Nigeria Tax Act & CBN regulations
+KYC & identity verificationLegal obligations.25(1)(c)ML(PP)A 2022 & CBN KYC Regulations under CBN Act 2007
+AML & sanctions screeningLegal obligations.25(1)(c)ML(PP)A 2022 s.9 — mandatory record-keeping & screening
+Fraud prevention & platform securityLegitimate interests.25(1)(f)LIA conducted & documented by DPO; available on request
+Customer support & dispute resolutionContracts.25(1)(b)Service delivery obligation to registered Users
+Legal compliance & court/regulatory ordersLegal obligations.25(1)(c)NDPA 2023, GAID 2025, judicial & regulatory requirements
+Tax record-keeping & financial reportingLegal obligations.25(1)(c)Nigeria Tax Act — mandatory tax record-keeping obligation
+Platform analytics & performance improvementLegitimate interests.25(1)(f)Improving services; LIA conducted, pseudonymised where possible
+AI/ML model trainingLegitimate interests.25(1)(f)Strictly anonymised data only; no personal data linkage
+Personalised product recommendationsLegitimate interest / Consents.25(1)(a)/(f)Consent obtained where profiling has significant legal effect per s.37
+Marketing & promotional communicationsConsents.25(1)(a)Explicit opt-in required; freely & independently withdrawable
+Special/sensitive category dataExplicit consents.25(1) / s.30Only where strictly necessary with prior explicit consent
+Minors' data (emergency processing only)Legal obligations.25(1)(c)Child Rights Act 2003 + NDPA s.31 — immediate closure & deletion
+5.2 Legitimate Interest Assessments (LIA)
+Where s.25(1)(f) is applied, A-Shopper has conducted a formal, documented LIA confirming our interests do not override your fundamental rights. LIA records are available on written request from the DPO.
+5.3 Consent Standards (NDPA 2023 s.25(1)(a))
+Consent is freely given, specific, informed, and obtained through a clear affirmative action. It is never bundled as a condition of unrelated service and may be withdrawn at any time per s.35.
+5.4 Purpose Limitation (NDPA 2023 s.24(1)(b))
+Data will not be used for a new, incompatible purpose without fresh notification and, where required, a fresh lawful basis.
+5.5 AI/ML Systems
+AI/ML training is conducted exclusively on genuinely anonymised or aggregated datasets that cannot be re-linked to any individual.
+6. How We Use Your Personal Data
+6.1 Platform Operation & Service Delivery
+Creating, managing, and securing your Account; processing Orders, refunds, and returns;
+Managing escrow, rental deposits, and fund disbursements;
+Facilitating communications between Buyers, Vendors, and Service Providers; and
+Sending essential transactional communications: Order confirmations, receipts, delivery updates.
+6.2 Security, Fraud Prevention & Legal Compliance
+KYC verification, AML/PEP/sanctions screening per ML(PP)A 2022;
+Detecting, preventing, and investigating fraud and Platform abuse; and
+Maintaining audit trails and compliance records as required by Nigerian law.
+6.3 Platform Improvement, Research & Analytics
+Analysing usage patterns, developing new features, A/B testing, and Platform optimisation; and
+Training AI/ML systems using strictly anonymised and aggregated data only.
+6.4 Marketing, Personalisation & Recommendations (Consent-Based Only)
+Sending promotional communications only with your explicit opt-in consent under NDPA 2023 s.25(1)(a);
+Delivering personalised product recommendations; and
+Running targeted advertising through approved digital marketing channels.
+6.5 Trust, Safety & Quality Assurance
+Monitoring Vendor performance, facilitating the review and rating system; and
+Enforcing our Terms & Conditions and Platform policies.
+7. Data Sharing, Disclosure & Third-Party Processors
+RecipientData SharedPurpose & Safeguard
+Vendors & Service ProvidersName, delivery address, order details, contact infoOrder fulfilment — minimum data only; DPA in place
+Payment Processors (CBN-licensed)Tokenised card data, transaction amount, billing addressPayment processing — PCI-DSS certified; DPA and SCCs where applicable
+Logistics & Delivery PartnersName, address, order ID, contact numberDelivery fulfilment — DPA in place; no secondary use permitted
+KYC / Identity Verification PartnersIdentity documents, biographic dataKYC/AML legal obligation — NDPC-accredited processors; DPA in place
+Cloud & IT Infrastructure ProvidersEncrypted platform dataPlatform hosting — DPA; encryption at rest and in transit
+Analytics ProvidersPseudonymised or aggregated usage dataPlatform improvement — anonymisation applied; no personal data sold
+Marketing & Advertising PlatformsHashed email, device IDs (consent-based only)Targeted advertising — consent obtained before sharing; data minimisation applied
+Legal & Regulatory Authorities (NFIU, EFCC, NDPC, CBN)Data as required by law or court orderML(PP)A 2022, NDPA 2023, judicial orders — legal obligation; User notified where permitted
+Fraud Prevention ServicesTransaction data, behavioural signalsFraud prevention — legitimate interest; accredited partners with DPA only
+Business Acquirers / SuccessorsAccount and transaction data on verified business transferBusiness continuity — Users notified in advance; data protection obligations preserved
+7.1 Data Processing Agreements (DPAs)
+All third-party processors are contractually required to: (a) process data only on A-Shopper's documented instructions; (b) implement appropriate technical and organisational security measures; (c) assist in fulfilling data subject rights; and (d) comply with NDPA 2023 and GAID 2025.
+7.2 Sub-Processors
+A current list of key sub-processors is available on request from privacy@ashopper.com.
+7.3 Legal Disclosures
+A-Shopper may disclose personal data to the NFIU, EFCC, NDPC, CBN, FCCPC, or other authorities without prior User notice where legally compelled.
+8. International Data Transfers
+8.1 Personal data may be transferred to and processed in countries outside Nigeria. For all international transfers, A-Shopper ensures at least one safeguard under NDPA 2023 s.41–43 and GAID 2025 Art.46:
+Transfer to countries formally recognised by the NDPC as providing adequate data protection (NDPA 2023 s.42);
+Standard Contractual Clauses (SCCs) or equivalent data transfer agreements (NDPA 2023 s.43);
+Binding contractual obligations on the receiving entity requiring NDPA 2023-equivalent standards; or
+Your explicit, informed consent to the specific transfer after being informed of the possible risks.
+8.2 BCRs are not relied upon as the NDPC has not yet established a BCR approval framework. For EU/EEA transfers, EU-approved SCCs are applied.
+8.3 Transfer risk assessments are conducted before transferring data to jurisdictions with potentially lower protection than NDPA 2023. Details of safeguards are available on written request from privacy@ashopper.com.
+9. Data Retention: How Long We Keep Your Data
+9.1 A-Shopper retains personal data only as long as necessary to fulfil the purposes for which it was collected, in compliance with NDPA 2023 s.24(1)(d) and GAID 2025 Art.49:
+Data CategoryRetention PeriodLegal / Regulatory Basis
+Account & Profile DataDuration of account + 2 years post-closureLegitimate interest — post-closure dispute resolution (NDPA 2023 s.25(1)(f)); GAID 2025 Art.49(3)
+Transaction & Order Records6 years from last transactionNDPR Implementation Framework s.8.2 — 6 years after last transaction in contractual agreement
+Financial & Payment Records7 years from transaction dateNigeria Tax Act — mandatory tax record-keeping; CBN regulations under CBN Act 2007
+Communications Data3 years from last interactionNDPR Implementation Framework s.8.2 — within limitation window for contractual claims
+KYC / Identity Documents5 years after account closure or last transactionML(PP)A 2022 s.9 — mandatory minimum AML record-keeping period
+AML Screening & SAR Records5 years from date of report or relevant transactionML(PP)A 2022 s.9 — mandatory minimum under Nigerian AML law
+Marketing Preference RecordsUntil consent withdrawn or account closedConsent-based per NDPA 2023 s.25(1)(a); s.35 right to withdraw at any time
+Cookie & Tracking Data13 months rollingGAID 2025 Art.19 — data minimisation principle; international best practice
+Technical / Server Logs12 months rollingLegitimate interest — security & fraud prevention (NDPA 2023 s.25(1)(f))
+Legal & Dispute RecordsDuration of matter + 6 years post-resolutionNigeria Limitation Act — 6-year limitation period for contractual claims
+Regulatory Correspondence10 years from date of correspondenceNDPC, CBN, FCCPC record-keeping requirements under applicable regulations
+Backup & Archive DataUp to 12 months beyond primary retentionBusiness continuity — encrypted at rest; no active processing during archive period
+9.2 Secure Deletion
+Upon expiry of the applicable retention period, personal data is securely and irreversibly deleted or anonymised per GAID 2025 Art.49(3).
+9.3 Account Closure
+All personal data not subject to a legal retention obligation will be securely deleted within 30 days of Account closure. You may request a copy of your data before closure using your Right to Data Portability (s.38).
+10. Data Security: How We Protect Your Information
+10.1 A-Shopper implements a comprehensive, multi-layered security framework in compliance with NDPA 2023 s.39:
+10.1a Technical Security Measures
+AES-256 encryption at rest; TLS 1.2/1.3 encryption in transit;
+Full tokenisation of payment card data — complete card details are never stored;
+Multi-factor authentication (MFA) for all User Accounts and administrative access;
+Role-based, least-privilege access controls; WAF, intrusion detection, and DDoS mitigation; and
+Regular vulnerability scanning, independent penetration testing, and secure SDLC.
+10.1b Organisational Security Measures
+Mandatory annual data protection and information security training for all staff;
+Binding confidentiality and non-disclosure agreements for all employees and contractors; and
+Annual DCPMI Compliance Audit Return (CAR) filed with the NDPC; DPIAs for all new high-risk processing.
+10.2 Personal Data Breach Response (NDPA 2023 s.40)
+Immediately contain and investigate the breach upon discovery;
+Notify the NDPC within 72 hours of becoming aware of a breach likely to pose risk to individuals' rights and freedoms — as confirmed by NDPA 2023 s.40 and GAID 2025;
+Notify affected Users without undue delay where the breach is likely to result in high risk to their rights; and
+Document the breach and all remediation actions in our breach register; conduct post-incident review.
+10.3 If you suspect unauthorised access to your Account, change your password immediately and contact support@ashopper.com.
+11. Your Data Protection Rights
+11.1 Under NDPA 2023 and GAID 2025, you have the following rights. All section references are verified against the gazetted NDPA 2023 text:
+Your RightWhat It MeansHow to Exercise
+Right to be Informed (NDPA 2023 s.34(1)(a); s.27)Receive clear, concise, transparent information about how your data is processed — purposes, lawful basis, retention period, recipients, and any automated decision-making — before or at the point of collection.Provided in this Privacy Policy; contact: privacy@ashopper.com
+Right of Access (NDPA 2023 s.34(1)(b))Obtain a copy of personal data A-Shopper holds about you in a commonly used electronic format. Response within 30 days. Free of charge except where request is manifestly unfounded, excessive, or repetitive.Email: privacy@ashopper.com — Subject: 'Data Access Request'
+Right to Rectification (NDPA 2023 s.34(1)(c))Correct any inaccurate, outdated, incomplete, or misleading personal data without undue delay. Where error is caused by A-Shopper, correction is at no cost to you.Account Settings or email: privacy@ashopper.com
+Right to Erasure (NDPA 2023 s.34(1)(d))Request deletion of personal data where: it is no longer necessary for original purpose; consent is withdrawn; or processing was unlawful. Subject to legal retention obligations under Nigeria Tax Act, ML(PP)A 2022 etc.Email: privacy@ashopper.com — Subject: 'Erasure Request'
+Right to Restrict Processing (NDPA 2023 s.34(1)(v))Request temporary suspension of processing — for example while accuracy is contested, processing was unlawful, or you need data for a legal claim.Email: privacy@ashopper.com — Subject: 'Restriction Request'
+Right to Data Portability (NDPA 2023 s.38)Receive personal data in a structured, commonly used, machine-readable format and have it transmitted to another controller. Applies only where processing is based on consent (s.25(1)(a)) or contract (s.25(1)(b)).Email: privacy@ashopper.com — Subject: 'Portability Request'
+Right to Object (NDPA 2023 s.36)Object to processing based on legitimate interest (s.25(1)(f)). Processing must stop unless A-Shopper demonstrates compelling grounds. Right to object to direct marketing is absolute; no override permitted.Account Settings > Privacy or email: privacy@ashopper.com
+Rights re. Automated Decisions (NDPA 2023 s.37)Not be subject to solely automated decisions producing significant legal or similar effects. Request human review, express your view, and challenge incorrect automated decisions.Email: privacy@ashopper.com — Subject: 'Automated Decision Review'
+Right to Withdraw Consent (NDPA 2023 s.35)Withdraw consent for any consent-based processing at any time, as easily as consent was given, without detriment. A-Shopper will cease processing within 10 business days. Does not affect prior lawful processing.Account Settings > Communications Preferences or email us
+Right to Complain (NDPA 2023 s.34; s.46)Lodge a complaint with the NDPC where you believe your rights have been violated — after first raising with A-Shopper.www.ndpc.gov.ng | complaints@ndpc.gov.ng
+11.2 How to Submit a Request
+Email privacy@ashopper.com with your full name, Account email, the right you wish to exercise, and sufficient detail to identify the relevant data. Acknowledged within 5 business days; full response within 30 days.
+11.3 Consent Withdrawal (NDPA 2023 s.35)
+A-Shopper will cease the relevant processing within 10 business days of a valid withdrawal. The withdrawal mechanism is as easy as the consent mechanism.
+11.4 Complaints (NDPA 2023 s.46)
+If dissatisfied with A-Shopper's response, lodge a complaint with the NDPC at www.ndpc.gov.ng | complaints@ndpc.gov.ng. EU/EEA Users may also complain to their local supervisory authority. UK Users may contact the ICO at www.ico.org.uk.
+12. Cookies & Tracking Technologies
+12.1 A-Shopper uses cookies and similar tracking technologies in compliance with GAID 2025 Art.19:
+Cookie TypePurposeDisableable?Duration
+Strictly NecessarySession management, login authentication, shopping cart, security tokens, CSRF protection. Core to Platform function.No. Platform cannot function without these.Session / up to 24hrs
+Performance & AnalyticsUsage patterns, page visits, error tracking, load times. Data aggregated and anonymised; no individual profiling.Yes, via consent bannerUp to 13 months
+Functional / PreferenceLanguage, currency, layout preferences, recently viewed items, 'remember me' login settings.Yes, via consent bannerUp to 12 months
+Marketing & TargetingRelevant advertising, campaign tracking, retargeting. Set ONLY with prior explicit consent per GAID 2025 Art.19.Yes; withdraw consent anytimeUp to 90 days
+Third-Party / SocialSet by providers (e.g. Google Analytics, Meta Pixel). A-Shopper does not control these cookies.Yes, via browser settings or consent bannerVaries by provider
+12.2 Cookie Consent (GAID 2025 Art.19)
+On first visit, a clear consent banner is presented. Only Strictly Necessary cookies are set before consent. No pre-ticked boxes. You may Accept All, Reject Non-Essential, or Customise by category.
+12.3 Cookie preferences can be updated anytime through Account Settings > Cookie Preferences, your browser settings, or by emailing privacy@ashopper.com. Full Cookie Policy: https://www.a-shopper.com/cookies.
+13. Children's Privacy
+13.1 The Platform is designed exclusively for adults. Registration constitutes confirmation that you are 18 or older. Under NDPA 2023 s.31 and the Child Rights Act 2003, a child is any person under 18.
+13.2 A-Shopper does not maintain a parental consent mechanism for underage registration. The Platform is exclusively for adults.
+13.3 Discovery of Underage User
+If A-Shopper discovers a child's data has been collected, A-Shopper will immediately, under NDPA 2023 s.31 and the Child Rights Act 2003: (a) suspend the Account; (b) permanently delete all associated personal data within 30 days; (c) reverse or cancel associated Transactions where possible; and (d) notify the parent or guardian where contact details are available.
+13.4 Parents or guardians who believe a child has registered must contact privacy@ashopper.com immediately.
+14. Marketing Communications & Your Choices
+14.1 With your freely given, specific consent under NDPA 2023 s.25(1)(a), A-Shopper may send promotional communications via email, in-Platform notifications, push notifications, and SMS. Marketing consent is never bundled with consent for other Platform services.
+14.2 Opting Out
+Withdraw marketing consent at any time by: (a) clicking 'Unsubscribe' in any marketing email; (b) updating Account Settings > Communications Preferences; or (c) emailing privacy@ashopper.com with subject 'Marketing Opt-Out'. Effective within 10 business days per s.35.
+14.3 Right to Object to Direct Marketing (NDPA 2023 s.36(3))
+Where you object to direct marketing processing, A-Shopper shall immediately cease all direct marketing — this right is absolute and no override is permitted under NDPA 2023.
+14.4 Essential transactional communications — Order confirmations, receipts, security alerts — are sent under contract basis (s.25(1)(b)) and cannot be deactivated while your Account is active.
+15. Automated Decision-Making & Profiling
+15.1 A-Shopper uses automated processing for the following activities, disclosed in advance per NDPA 2023 s.27(g): (a) Fraud detection — real-time transaction risk scoring — may result in Transaction blocking; (b) KYC & identity screening — may result in Account restriction; (c) Vendor performance scoring — affects Vendor ranking; (d) Product recommendations — no significant legal effect; and (e) Payment risk assessment — may result in payment delay.
+15.2 Your Rights Under NDPA 2023 s.37
+Where automated processing produces a significant legal effect on you, you have the right to: (a) be informed; (b) request human review; (c) express your view; and (d) challenge and request reversal of incorrect decisions.
+15.3 Request human review by emailing privacy@ashopper.com with subject 'Automated Decision Review'. We will respond within 15 business days.
+16. Data Protection Impact Assessments (DPIAs)
+16.1 A-Shopper conducts DPIAs before commencing any processing likely to result in a high risk to the rights and freedoms of individuals, as required by NDPA 2023 s.28 and GAID 2025. DPIA trigger circumstances include:
+DPIA Trigger (NDPA 2023 s.28; GAID 2025)Examples Relevant to A-Shopper
+Large-scale profiling of individualsBehavioural analytics, personalised recommendation engine, targeted advertising profiling
+Processing of sensitive/special category data at scaleBiometric identity verification, health data, ethnic/political data
+Systematic monitoring of publicly accessible areasGeolocation tracking, platform behavioural surveillance
+Automated decision-making with significant legal effectsFraud scoring leading to account suspension, payment risk scoring
+Children's data processingAny processing where minors may be identified or present
+Novel technologies or new processing purposesAI/ML system deployment, new data sharing partnerships, new analytics tools
+Cross-border data transfers to high-risk jurisdictionsTransfers to countries with materially lower data protection standards
+16.2 Where a DPIA reveals unmitigated high risk, A-Shopper will consult the NDPC before commencing the relevant processing. DPIA records are maintained by the DPO and available to the NDPC on request.
+17. Vendor, Seller & Business User Data
+17.1 In addition to general User data, A-Shopper processes the following for Vendors, Sellers, and Service Providers: business registration details including TIN (Nigeria Tax Act); director and beneficial ownership information; product catalogue data; performance metrics; financial disbursement details; and compliance records.
+17.2 Vendor performance data — ratings, review scores, fulfilment metrics — may be visible to Buyers as part of A-Shopper's trust and transparency framework. Individual Vendor data is never sold or shared for third-party commercial purposes.
+18. User-to-User Communications & Data
+18.1 Platform messaging may be accessed by A-Shopper strictly for: (a) dispute resolution; (b) fraud detection and Platform security; (c) policy enforcement; and (d) legal compliance. A-Shopper does not conduct blanket real-time monitoring.
+18.2 You must not use Platform messaging to share third-party personal data without consent, arrange off-Platform Transactions, harass Users, or conduct any unlawful activity.
+19. Third-Party Links, Integrations & Social Media
+19.1 The Platform may link to third-party websites and services. A-Shopper is not responsible for their privacy practices. Please review the privacy policy of any third-party platform before providing personal data.
+19.2 Social Login
+If you register or log in using Google, Facebook, or Apple, that platform may share profile data with A-Shopper, governed by your settings on that platform. A-Shopper uses social login data only for Account creation and authentication.
+20. International Users & Cross-Jurisdictional Rights
+20.1 A-Shopper serves Users globally and is committed to upholding data protection rights regardless of User location.
+20.2 EU & EEA Users — EU GDPR
+EU GDPR applies if you are located in the EU/EEA. Additional rights include: right to object (Article 21); right re. automated decisions (Article 22); right to complain to your local supervisory authority. Cross-border transfers to Nigeria are protected by EU-approved SCCs.
+20.3 United Kingdom Users — UK GDPR
+UK GDPR applies if located in the UK. Transfers use International Data Transfer Agreements (IDTAs) or UK-approved SCCs. Complaints: ICO — www.ico.org.uk.
+20.4 California, United States Users — CCPA/CPRA
+CCPA/CPRA rights include: Right to Know; Right to Delete; Right to Correct; Right to Opt-Out of data sale (A-Shopper does not sell personal data); and Right to Non-Discrimination.
+20.5 South Africa — POPIA
+South African data subjects' POPIA rights — including the right to object and the right to erasure — are honoured as supplementary protections.
+20.6 Other Jurisdictions
+Where other national frameworks apply — including Kenya's Data Protection Act 2019 or Canada's PIPEDA — A-Shopper uses reasonable endeavours to honour those rights as supplementary protections. The primary governing law for all A-Shopper processing is the Nigeria Data Protection Act 2023.
+21. Data Minimisation, Purpose Limitation & Accuracy
+21.1 Data Minimisation (NDPA 2023 s.24(1)(c))
+A-Shopper collects only personal data that is adequate, relevant, and strictly limited to what is necessary for the documented purpose.
+21.2 Purpose Limitation (NDPA 2023 s.24(1)(b))
+Data will not be used for a new, incompatible purpose without: (a) notification to you; (b) a fresh lawful basis where required; and (c) opportunity to object.
+21.3 Accuracy (NDPA 2023 s.24(1)(e))
+A-Shopper takes reasonable steps to ensure personal data is accurate, complete, not misleading, and kept up to date. Corrections can be made through Account Settings or by contacting privacy@ashopper.com.
+22. Penalties for Non-Compliance
+22.1 A-Shopper takes its obligations under NDPA 2023 seriously. The penalties for non-compliance are substantial, and we are committed to full compliance to protect both our Users and our organisation. The regulatory penalty framework under NDPA 2023 s.49 is:
+Violation TypePenaltyLegal Basis
+Non-compliance by a DCPMI (Data Controller of Major Importance)Fine of NGN 10,000,000 OR 2% of annual gross revenue (whichever is greater)NDPA 2023 s.49
+Non-compliance by other Data Controllers / ProcessorsFine of NGN 2,000,000 OR 2% of annual gross revenue (whichever is greater)NDPA 2023 s.49
+Failure to comply with NDPC enforcement ordersAdditional fine of up to NGN 10,000,000 and/or up to 1 year imprisonment for principal officersNDPA 2023 s.48
+Civil damages to affected Data SubjectCompensation payable to the Data Subject for harm caused by violationNDPA 2023 s.51
+Account for profits from violationA-Shopper required to account for and surrender profits derived from unlawful processingNDPA 2023 s.48
+Referral to other regulatorsNDPC may refer matter to CBN, FCCPC, EFCC, or other authorities for sector-specific sanctionNDPA 2023 s.48
+22.2 In addition to regulatory penalties, any Data Subject who suffers harm as a result of A-Shopper's violation of the NDPA 2023 may seek civil damages through the courts under NDPA 2023 s.51.
+22.3 A-Shopper maintains appropriate compliance and governance frameworks, undergoes annual DCPMI audits, and cooperates fully with all NDPC investigations and enforcement activities to minimise the risk of violation and protect the interests of our Users.
+23. Whistleblower & Internal Reporting
+23.1 A-Shopper maintains an internal data protection reporting mechanism consistent with GAID 2025 and the obligations of a DCPMI. Any employee, contractor, vendor, or User who becomes aware of a potential data protection violation, data breach, or unlawful processing activity is encouraged to report it promptly.
+23.2 Internal Reporting Channels
+Data Protection Officer (DPO): privacy@ashopper.com — The primary internal channel for all data protection concerns, including suspected breaches, unlawful processing, or non-compliance with this Policy or NDPA 2023.
+Compliance Team: compliance@ashopper.com — For AML, KYC, and regulatory compliance concerns including suspected violations of ML(PP)A 2022 or CBN regulations.
+Legal Team: legal@ashopper.com — For concerns involving potential legal exposure, regulatory proceedings, or court orders.
+23.3 Non-Retaliation Commitment
+A-Shopper prohibits retaliation against any person who, in good faith, reports a suspected data protection concern through any internal or external channel. Reports made in good faith will not result in any adverse employment or contractual consequences.
+23.4 External Reporting
+Nothing in this Policy prevents any person from reporting a data protection concern directly to the NDPC (complaints@ndpc.gov.ng), the NFIU, the EFCC, or any other applicable regulatory authority, without first raising the matter internally.
+23.5 Report Handling
+All internal reports are logged, investigated promptly by the DPO, and escalated to senior management and the NDPC where required under NDPA 2023 s.40 (breach notification). Reporters will receive an acknowledgement within 5 business days and a substantive response within 30 days.
+24. Accessibility
+24.1 A-Shopper is committed to ensuring that this Privacy Policy and all data protection information is accessible to all Users, including those with disabilities, in compliance with the spirit of the NDPA 2023 and international accessibility standards.
+24.2 Alternative Formats
+This Privacy Policy is available in the following alternative formats upon written request to privacy@ashopper.com:
+Large print (minimum 18pt font);
+Plain text format (for screen reader compatibility);
+Audio description (read-aloud version available on request); and
+Simplified plain language summary — a shorter, jargon-free version of this Policy for Users who require easier-to-read materials.
+24.3 Language
+The governing version of this Privacy Policy is in English. Where A-Shopper publishes translations into other languages for User convenience, the English version shall prevail in the event of any inconsistency.
+24.4 Digital Accessibility
+The A-Shopper Platform is designed with accessibility in mind, including: compliance with WCAG 2.1 Level AA guidelines; screen reader compatibility; keyboard navigation support; and adequate colour contrast ratios. Users who experience accessibility barriers on the Platform should contact support@ashopper.com.
+24.5 Child-Friendly Notice
+As A-Shopper is an adults-only Platform, a child-friendly version of this Privacy Policy is not published. In the event a minor is discovered to have accessed the Platform, the procedure in Section 13.3 applies immediately.
+25. Changes to This Privacy Policy
+25.1 A-Shopper may update this Privacy Policy at any time to reflect changes in applicable law, regulatory guidance, technological practices, or Platform operations.
+25.2 Material Changes
+Material changes — including new data categories, new third-party sharing, or changes reducing your rights — will be communicated to all registered Users by email and/or in-Platform notification at least 14 days before the new Effective Date. Fresh consent will be obtained where required.
+25.3 Minor Changes
+Minor changes — such as clarifications or formatting corrections — will be published on the Platform with a revised version number and 'Last Updated' date, without individual notification.
+25.4 Continued use of the Platform after the Effective Date of a revised Policy constitutes acceptance of the updated version. If you do not agree with material changes, you may close your Account before the Effective Date.
+25.5 Previous versions are archived and available on written request from privacy@ashopper.com.
+26. Contact Us & How to Make a Complaint
+26.1 For all questions, rights requests, accessibility requests, or concerns about this Policy or A-Shopper's data practices, contact our Data Protection Officer at privacy@ashopper.com. All contact details are consolidated in Section 1.
+26.2 Response Commitment
+All privacy requests acknowledged within 5 business days. Full response within 30 days. Complex requests: up to 90 days total with notification within the initial 30-day window.
+26.3 Complaints Procedure
+First, raise the concern directly with A-Shopper at privacy@ashopper.com;
+If unresolved within 30 days, escalate to the NDPC under NDPA 2023 s.46 at www.ndpc.gov.ng | complaints@ndpc.gov.ng;
+EU/EEA Users may additionally complain to their local supervisory authority;
+UK Users may additionally contact the ICO at www.ico.org.uk.
+26.4 Regulatory Registration
+A-Shopper is registered with the NDPC as a DCPMI under NDPA 2023 s.44 and fully cooperates with all NDPC investigations, audits, and enforcement activities.
+Legal Verification Statement
+LEGAL VERIFICATION STATEMENT (v1.0): This Privacy Policy has been prepared by A-Shopper Global Limited with all statutory references verified against the following legislation as gazetted and enacted: Nigeria Data Protection Act 2023 (NDPA 2023) — Federal Republic of Nigeria Official Gazette, 1 July 2023, No. 37; NDPA General Application and Implementation Directive 2025 (GAID 2025) — effective 19 September 2025; Money Laundering (Prevention & Prohibition) Act 2022 (ML(PP)A 2022) s.9; Nigeria Tax Act (effective 1 January 2025); CBN Act 2007; CAMA 2020; FCCPA 2018; Terrorism (Prevention & Prohibition) Act 2022; Cybercrimes Act 2015 (as amended 2024); Child Rights Act 2003; Nigeria Limitation Act. VERIFIED NDPA 2023 SECTION MAPPING: s.24 = Data principles; s.25 = Lawful bases (a–f); s.27 = Information to data subject; s.28 = DPIA; s.30 = Sensitive data; s.31 = Children; s.32 = DPO designation; s.34 = Data subject rights (access s.34(1)(b), rectification s.34(1)(c), erasure s.34(1)(d), restriction s.34(1)(v)); s.35 = Consent withdrawal; s.36 = Right to object (s.36(3) = direct marketing); s.37 = Automated decisions; s.38 = Data portability; s.39 = Security obligations; s.40 = Breach notification (72-hour standard confirmed in gazetted text); s.41–43 = International transfers; s.44 = DCPMI registration; s.46 = Complaints to NDPC; s.48 = Enforcement orders; s.49 = Offences and penalties; s.51 = Civil remedies. BCRs excluded: NDPC has not established a BCR approval framework under NDPA 2023.
+© 2026 A-Shopper Global Limited. All Rights Reserved. Governed by the laws of the Federal Republic of Nigeria. | Effective: 1 June 2026 | https://www.a-shopper.com/privacy
+
+
+
+

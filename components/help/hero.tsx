@@ -4,7 +4,7 @@ export function HelpHero() {
   return (
     <section className="bg-background">
       <div className="mx-auto max-w-7xl px-4 py-14 sm:px-6 lg:px-8 lg:py-20">
-        <div className="grid items-end gap-8 border-b border-border pb-10 lg:grid-cols-[minmax(0,1.4fr)_auto]">
+        <div className="grid items-end gap-8 lg:grid-cols-[minmax(0,1.4fr)_auto]">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.18em] text-primary">
               Help Center
