@@ -42,8 +42,8 @@ export default function CookiesPage() {
             </a>
             {" · "}
             DPO:{" "}
-            <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-              privacy@ashopper.com
+            <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+              privacy@a-shopper.com
             </a>
           </>
         }

@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export function AboutStory() {
   return (
     <section className="bg-background">
@@ -15,22 +17,20 @@ export function AboutStory() {
             and buyers risked paying before ever seeing the machine.
           </p>
           <p className="mt-4 text-base leading-relaxed text-muted-foreground sm:text-lg">
-            A-Shopper was built by Mrs Bukola Oshobajo to close that gap: one place where listings,
-            conversation, payment protection, and delivery confirmation happen together, on the
-            phones people already use on site.
-          </p>
-          <p className="mt-6 text-sm font-semibold text-foreground">
-            Mrs Bukola Oshobajo
-            <span className="mt-1 block text-xs font-medium uppercase tracking-[0.14em] text-primary">
-              Founder
-            </span>
+            A-Shopper was built to close that gap: one place where listings, conversation, payment
+            protection, and delivery confirmation happen together, on the phones people already use
+            on site.
           </p>
         </div>
 
-        <div className="relative min-h-[240px] overflow-hidden rounded-2xl bg-muted lg:min-h-[360px]">
-          <div className="flex h-full min-h-[240px] items-center justify-center text-sm text-muted-foreground lg:min-h-[360px]">
-            About story image
-          </div>
+        <div className="relative min-h-[240px] overflow-hidden rounded-2xl bg-[#f3f4f6] lg:min-h-[360px]">
+          <Image
+            src="/images/vendor.png"
+            alt="A-Shopper app showing vendor chat and product details"
+            fill
+            className="object-cover object-center !top-3 lg:!top-4"
+            sizes="(max-width: 1024px) 100vw, 50vw"
+          />
         </div>
       </div>
     </section>

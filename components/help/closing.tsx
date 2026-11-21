@@ -17,7 +17,7 @@ export function HelpClosing() {
             </p>
           </div>
           <div className="flex flex-wrap items-center gap-3 bg-primary-soft px-8 py-10 sm:px-10 lg:justify-end lg:px-12 lg:py-12">
-            <Button href="mailto:support@ashopper.africa">Email Support</Button>
+            <Button href="mailto:support@a-shopper.com">Email Support</Button>
             <Button href="/contact" variant="outline">
               Contact Us
             </Button>

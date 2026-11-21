@@ -7,7 +7,7 @@ const CHANNELS = [
     title: "General Support",
     body: "Help with your account, orders, or app experience.",
     action: "Email support",
-    href: "mailto:support@ashopper.africa",
+    href: "mailto:support@a-shopper.com",
   },
   {
     icon: Store,

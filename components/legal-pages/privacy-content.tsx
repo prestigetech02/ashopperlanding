@@ -56,7 +56,7 @@ export function PrivacyContent() {
           ],
           [
             'DPO Email',
-            'privacy@ashopper.com — all data subject rights requests (NDPA 2023 s.32)',
+            'privacy@a-shopper.com — all data subject rights requests (NDPA 2023 s.32)',
           ],
           [
             'Privacy Policy',
@@ -78,9 +78,9 @@ export function PrivacyContent() {
               https://www.a-shopper.com/cookies
             </a>,
           ],
-          ['Customer Support', 'support@ashopper.com'],
-          ['Legal', 'legal@ashopper.com'],
-          ['Compliance / AML', 'compliance@ashopper.com'],
+          ['Customer Support', 'support@a-shopper.com'],
+          ['Legal', 'legal@a-shopper.com'],
+          ['Compliance / AML', 'compliance@a-shopper.com'],
           [
             'Supervisory Authority',
             'Nigeria Data Protection Commission (NDPC) — established under NDPA 2023 s.4',
@@ -130,8 +130,8 @@ export function PrivacyContent() {
           Officer with expert knowledge of data protection law and practices. The DPO is responsible
           for: overseeing data protection compliance; handling all data subject rights requests;
           advising on DPIAs; and liaising with the NDPC. Contact:{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>{' '}
           (all data subject rights requests).
         </LegalP>
@@ -547,8 +547,8 @@ export function PrivacyContent() {
         <LegalH3>7.2 Sub-Processors</LegalH3>
         <LegalP>
           A current list of key sub-processors is available on request from{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>
           .
         </LegalP>
@@ -582,8 +582,8 @@ export function PrivacyContent() {
           8.3 Transfer risk assessments are conducted before transferring data to jurisdictions with
           potentially lower protection than NDPA 2023. Details of safeguards are available on written
           request from{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>
           .
         </LegalP>
@@ -709,8 +709,8 @@ export function PrivacyContent() {
         <LegalP>
           10.3 If you suspect unauthorised access to your Account, change your password immediately
           and contact{' '}
-          <a href="mailto:support@ashopper.com" className="text-primary hover:underline">
-            support@ashopper.com
+          <a href="mailto:support@a-shopper.com" className="text-primary hover:underline">
+            support@a-shopper.com
           </a>
           .
         </LegalP>
@@ -728,42 +728,42 @@ export function PrivacyContent() {
             [
               'Right to be Informed (NDPA 2023 s.34(1)(a); s.27)',
               'Receive clear, concise, transparent information about how your data is processed — purposes, lawful basis, retention period, recipients, and any automated decision-making — before or at the point of collection.',
-              'Provided in this Privacy Policy; contact: privacy@ashopper.com',
+              'Provided in this Privacy Policy; contact: privacy@a-shopper.com',
             ],
             [
               'Right of Access (NDPA 2023 s.34(1)(b))',
               'Obtain a copy of personal data A-Shopper holds about you in a commonly used electronic format. Response within 30 days. Free of charge except where request is manifestly unfounded, excessive, or repetitive.',
-              "Email: privacy@ashopper.com — Subject: 'Data Access Request'",
+              "Email: privacy@a-shopper.com — Subject: 'Data Access Request'",
             ],
             [
               'Right to Rectification (NDPA 2023 s.34(1)(c))',
               'Correct any inaccurate, outdated, incomplete, or misleading personal data without undue delay. Where error is caused by A-Shopper, correction is at no cost to you.',
-              'Account Settings or email: privacy@ashopper.com',
+              'Account Settings or email: privacy@a-shopper.com',
             ],
             [
               'Right to Erasure (NDPA 2023 s.34(1)(d))',
               'Request deletion of personal data where: it is no longer necessary for original purpose; consent is withdrawn; or processing was unlawful. Subject to legal retention obligations under Nigeria Tax Act, ML(PP)A 2022 etc.',
-              "Email: privacy@ashopper.com — Subject: 'Erasure Request'",
+              "Email: privacy@a-shopper.com — Subject: 'Erasure Request'",
             ],
             [
               'Right to Restrict Processing (NDPA 2023 s.34(1)(v))',
               'Request temporary suspension of processing — for example while accuracy is contested, processing was unlawful, or you need data for a legal claim.',
-              "Email: privacy@ashopper.com — Subject: 'Restriction Request'",
+              "Email: privacy@a-shopper.com — Subject: 'Restriction Request'",
             ],
             [
               'Right to Data Portability (NDPA 2023 s.38)',
               'Receive personal data in a structured, commonly used, machine-readable format and have it transmitted to another controller. Applies only where processing is based on consent (s.25(1)(a)) or contract (s.25(1)(b)).',
-              "Email: privacy@ashopper.com — Subject: 'Portability Request'",
+              "Email: privacy@a-shopper.com — Subject: 'Portability Request'",
             ],
             [
               'Right to Object (NDPA 2023 s.36)',
               'Object to processing based on legitimate interest (s.25(1)(f)). Processing must stop unless A-Shopper demonstrates compelling grounds. Right to object to direct marketing is absolute; no override permitted.',
-              'Account Settings > Privacy or email: privacy@ashopper.com',
+              'Account Settings > Privacy or email: privacy@a-shopper.com',
             ],
             [
               'Rights re. Automated Decisions (NDPA 2023 s.37)',
               'Not be subject to solely automated decisions producing significant legal or similar effects. Request human review, express your view, and challenge incorrect automated decisions.',
-              "Email: privacy@ashopper.com — Subject: 'Automated Decision Review'",
+              "Email: privacy@a-shopper.com — Subject: 'Automated Decision Review'",
             ],
             [
               'Right to Withdraw Consent (NDPA 2023 s.35)',
@@ -780,8 +780,8 @@ export function PrivacyContent() {
         <LegalH3>11.2 How to Submit a Request</LegalH3>
         <LegalP>
           Email{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>{' '}
           with your full name, Account email, the right you wish to exercise, and sufficient detail
           to identify the relevant data. Acknowledged within 5 business days; full response within 30
@@ -850,8 +850,8 @@ export function PrivacyContent() {
         <LegalP>
           12.3 Cookie preferences can be updated anytime through Account Settings &gt; Cookie
           Preferences, your browser settings, or by emailing{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>
           . Full Cookie Policy:{' '}
           <a
@@ -885,8 +885,8 @@ export function PrivacyContent() {
         </LegalP>
         <LegalP>
           13.4 Parents or guardians who believe a child has registered must contact{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>{' '}
           immediately.
         </LegalP>
@@ -904,8 +904,8 @@ export function PrivacyContent() {
           Withdraw marketing consent at any time by: (a) clicking &apos;Unsubscribe&apos; in any
           marketing email; (b) updating Account Settings &gt; Communications Preferences; or (c)
           emailing{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>{' '}
           with subject &apos;Marketing Opt-Out&apos;. Effective within 10 business days per s.35.
         </LegalP>
@@ -939,8 +939,8 @@ export function PrivacyContent() {
         </LegalP>
         <LegalP>
           15.3 Request human review by emailing{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>{' '}
           with subject &apos;Automated Decision Review&apos;. We will respond within 15 business
           days.
@@ -1092,8 +1092,8 @@ export function PrivacyContent() {
           A-Shopper takes reasonable steps to ensure personal data is accurate, complete, not
           misleading, and kept up to date. Corrections can be made through Account Settings or by
           contacting{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>
           .
         </LegalP>
@@ -1166,24 +1166,24 @@ export function PrivacyContent() {
           items={[
             <>
               <strong>Data Protection Officer (DPO):</strong>{' '}
-              <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-                privacy@ashopper.com
+              <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+                privacy@a-shopper.com
               </a>{' '}
               — The primary internal channel for all data protection concerns, including suspected
               breaches, unlawful processing, or non-compliance with this Policy or NDPA 2023.
             </>,
             <>
               <strong>Compliance Team:</strong>{' '}
-              <a href="mailto:compliance@ashopper.com" className="text-primary hover:underline">
-                compliance@ashopper.com
+              <a href="mailto:compliance@a-shopper.com" className="text-primary hover:underline">
+                compliance@a-shopper.com
               </a>{' '}
               — For AML, KYC, and regulatory compliance concerns including suspected violations of
               ML(PP)A 2022 or CBN regulations.
             </>,
             <>
               <strong>Legal Team:</strong>{' '}
-              <a href="mailto:legal@ashopper.com" className="text-primary hover:underline">
-                legal@ashopper.com
+              <a href="mailto:legal@a-shopper.com" className="text-primary hover:underline">
+                legal@a-shopper.com
               </a>{' '}
               — For concerns involving potential legal exposure, regulatory proceedings, or court
               orders.
@@ -1222,8 +1222,8 @@ export function PrivacyContent() {
         <LegalP>
           This Privacy Policy is available in the following alternative formats upon written request
           to{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>
           :
         </LegalP>
@@ -1247,8 +1247,8 @@ export function PrivacyContent() {
           WCAG 2.1 Level AA guidelines; screen reader compatibility; keyboard navigation support; and
           adequate colour contrast ratios. Users who experience accessibility barriers on the
           Platform should contact{' '}
-          <a href="mailto:support@ashopper.com" className="text-primary hover:underline">
-            support@ashopper.com
+          <a href="mailto:support@a-shopper.com" className="text-primary hover:underline">
+            support@a-shopper.com
           </a>
           .
         </LegalP>
@@ -1286,8 +1286,8 @@ export function PrivacyContent() {
         </LegalP>
         <LegalP>
           25.5 Previous versions are archived and available on written request from{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>
           .
         </LegalP>
@@ -1298,8 +1298,8 @@ export function PrivacyContent() {
         <LegalP>
           26.1 For all questions, rights requests, accessibility requests, or concerns about this
           Policy or A-Shopper&apos;s data practices, contact our Data Protection Officer at{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>
           . All contact details are consolidated in Section 1.
         </LegalP>
@@ -1313,8 +1313,8 @@ export function PrivacyContent() {
           items={[
             <>
               First, raise the concern directly with A-Shopper at{' '}
-              <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-                privacy@ashopper.com
+              <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+                privacy@a-shopper.com
               </a>
               ;
             </>,

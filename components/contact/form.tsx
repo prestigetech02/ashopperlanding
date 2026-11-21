@@ -35,7 +35,7 @@ export function ContactForm() {
     const body = [`Name: ${name}`, `Email: ${email}`, `Subject: ${subject}`, "", message].join(
       "\n"
     );
-    const mailto = `mailto:support@ashopper.africa?subject=${encodeURIComponent(
+    const mailto = `mailto:support@a-shopper.com?subject=${encodeURIComponent(
       `[A-Shopper Contact] ${subject}`
     )}&body=${encodeURIComponent(body)}`;
 
@@ -55,7 +55,7 @@ export function ContactForm() {
         </span>
         <h2 className="mt-5 text-2xl font-bold text-foreground">Message ready to send</h2>
         <p className="mx-auto mt-3 max-w-md text-sm leading-relaxed text-muted-foreground">
-          Your email client should open with your message to support@ashopper.africa. If it
+          Your email client should open with your message to support@a-shopper.com. If it
           didn&apos;t, email us directly and we&apos;ll respond as soon as we can.
         </p>
         <Button type="button" className="mt-6" onClick={() => setSubmitted(false)}>

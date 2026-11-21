@@ -64,7 +64,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
       },
       {
         q: "Is it free to sell on A-Shopper?",
-        a: "Yes. Joining as a vendor is free, there are no subscription fees. You only pay when you sell, based on the platform's transaction terms shown in the app.",
+        a: "Yes, joining A-SHOPPER at the entry/basic tier is free, with paid upgrades available once you start generating consistent order volume.",
       },
       {
         q: "How do payouts work for vendors?",
@@ -90,7 +90,7 @@ export const FAQ_CATEGORIES: FaqCategory[] = [
       },
       {
         q: "How do I contact support?",
-        a: "Reach us in-app through support chat, or email support@ashopper.africa. For partnerships and vendor onboarding questions, use the Contact Us section on this site.",
+        a: "Reach us in-app through support chat, or email support@a-shopper.com. For partnerships and vendor onboarding questions, use the Contact Us section on this site.",
       },
       {
         q: "Is A-Shopper available worldwide?",

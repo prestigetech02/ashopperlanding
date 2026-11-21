@@ -414,8 +414,8 @@ export function TermsContent() {
           aware that a minor has registered, the Account will be immediately suspended and all
           associated Transactions reversed where possible. Parents or guardians who become aware of
           minor usage must notify A-Shopper at{' '}
-          <a href="mailto:support@ashopper.com" className="text-primary hover:underline">
-            support@ashopper.com
+          <a href="mailto:support@a-shopper.com" className="text-primary hover:underline">
+            support@a-shopper.com
           </a>{' '}
           immediately.
         </LegalP>
@@ -675,15 +675,15 @@ export function TermsContent() {
             'a. Use the "Report" button available on each Listing and User profile;',
             <>
               b. Submit a report via email to{' '}
-              <a href="mailto:report@ashopper.com" className="text-primary hover:underline">
-                report@ashopper.com
+              <a href="mailto:report@a-shopper.com" className="text-primary hover:underline">
+                report@a-shopper.com
               </a>
               ; or
             </>,
             <>
               c. Contact A-Shopper&apos;s Customer Support team at{' '}
-              <a href="mailto:support@ashopper.com" className="text-primary hover:underline">
-                support@ashopper.com
+              <a href="mailto:support@a-shopper.com" className="text-primary hover:underline">
+                support@a-shopper.com
               </a>
               .
             </>,
@@ -763,8 +763,8 @@ export function TermsContent() {
         <LegalP>
           If you believe any Listing or Content infringes your intellectual property rights, submit a
           takedown notice to{' '}
-          <a href="mailto:legal@ashopper.com" className="text-primary hover:underline">
-            legal@ashopper.com
+          <a href="mailto:legal@a-shopper.com" className="text-primary hover:underline">
+            legal@a-shopper.com
           </a>{' '}
           including: your name, contact details, and proof of rights ownership; a description of the
           infringing content and its location; a good faith statement; and a declaration that the
@@ -953,8 +953,8 @@ export function TermsContent() {
         <LegalP>
           You have the right to access, correct, delete, restrict, or port your personal data.
           Contact:{' '}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>
           .
         </LegalP>
@@ -994,8 +994,8 @@ export function TermsContent() {
           24.3 A-Shopper will never ask for your password via email, phone, or any channel outside
           the Platform&apos;s secure login flow. If you receive such a request, treat it as
           fraudulent and report it immediately to{' '}
-          <a href="mailto:support@ashopper.com" className="text-primary hover:underline">
-            support@ashopper.com
+          <a href="mailto:support@a-shopper.com" className="text-primary hover:underline">
+            support@a-shopper.com
           </a>
           .
         </LegalP>
@@ -1192,8 +1192,8 @@ export function TermsContent() {
         </LegalP>
         <LegalP>
           34.3 You may close your Account at any time by contacting{' '}
-          <a href="mailto:support@ashopper.com" className="text-primary hover:underline">
-            support@ashopper.com
+          <a href="mailto:support@a-shopper.com" className="text-primary hover:underline">
+            support@a-shopper.com
           </a>
           . Closure does not extinguish outstanding obligations.
         </LegalP>
@@ -1220,8 +1220,8 @@ export function TermsContent() {
         />
         <LegalP>
           35.4 Users may reactivate a dormant Account by contacting{' '}
-          <a href="mailto:support@ashopper.com" className="text-primary hover:underline">
-            support@ashopper.com
+          <a href="mailto:support@a-shopper.com" className="text-primary hover:underline">
+            support@a-shopper.com
           </a>
           , subject to re-verification of identity and KYC documents where required.
         </LegalP>
@@ -1274,8 +1274,8 @@ export function TermsContent() {
         <LegalP>
           37.3 If you experience accessibility barriers while using the Platform or require the Terms
           and Conditions or any other document in an alternative format, please contact A-Shopper at{' '}
-          <a href="mailto:support@ashopper.com" className="text-primary hover:underline">
-            support@ashopper.com
+          <a href="mailto:support@a-shopper.com" className="text-primary hover:underline">
+            support@a-shopper.com
           </a>{' '}
           and we will use reasonable efforts to accommodate your request.
         </LegalP>
@@ -1338,8 +1338,8 @@ export function TermsContent() {
         </LegalP>
         <LegalP>
           41.2 Any formal legal notice from a User to A-Shopper must be sent in writing to{' '}
-          <a href="mailto:legal@ashopper.com" className="text-primary hover:underline">
-            legal@ashopper.com
+          <a href="mailto:legal@a-shopper.com" className="text-primary hover:underline">
+            legal@a-shopper.com
           </a>{' '}
           or by registered post to A-Shopper Global Limited&apos;s registered office in Nigeria.
         </LegalP>
@@ -1469,60 +1469,60 @@ export function TermsContent() {
               'General Enquiries',
               <a
                 key="info"
-                href="mailto:info@ashopper.com"
+                href="mailto:info@a-shopper.com"
                 className="text-primary hover:underline"
               >
-                info@ashopper.com
+                info@a-shopper.com
               </a>,
             ],
             [
               'Customer Support',
               <a
                 key="support"
-                href="mailto:support@ashopper.com"
+                href="mailto:support@a-shopper.com"
                 className="text-primary hover:underline"
               >
-                support@ashopper.com
+                support@a-shopper.com
               </a>,
             ],
             [
               'Data Privacy',
               <a
                 key="privacy"
-                href="mailto:privacy@ashopper.com"
+                href="mailto:privacy@a-shopper.com"
                 className="text-primary hover:underline"
               >
-                privacy@ashopper.com
+                privacy@a-shopper.com
               </a>,
             ],
             [
               'Legal / IP',
               <a
                 key="legal"
-                href="mailto:legal@ashopper.com"
+                href="mailto:legal@a-shopper.com"
                 className="text-primary hover:underline"
               >
-                legal@ashopper.com
+                legal@a-shopper.com
               </a>,
             ],
             [
               'AML / Compliance',
               <a
                 key="compliance"
-                href="mailto:compliance@ashopper.com"
+                href="mailto:compliance@a-shopper.com"
                 className="text-primary hover:underline"
               >
-                compliance@ashopper.com
+                compliance@a-shopper.com
               </a>,
             ],
             [
               'Report Violations',
               <a
                 key="report"
-                href="mailto:report@ashopper.com"
+                href="mailto:report@a-shopper.com"
                 className="text-primary hover:underline"
               >
-                report@ashopper.com
+                report@a-shopper.com
               </a>,
             ],
             [

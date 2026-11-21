@@ -43,7 +43,7 @@ export function CookiesContent() {
           ],
           [
             "DPO Email",
-            "privacy@ashopper.com — cookie preferences and data protection requests",
+            "privacy@a-shopper.com — cookie preferences and data protection requests",
           ],
           [
             "Cookie Policy",
@@ -57,7 +57,7 @@ export function CookiesContent() {
               https://www.a-shopper.com/privacy
             </Link>,
           ],
-          ["Customer Support", "support@ashopper.com"],
+          ["Customer Support", "support@a-shopper.com"],
         ]}
       />
 
@@ -238,8 +238,8 @@ export function CookiesContent() {
         <LegalP>
           Update preferences anytime through Account Settings &gt; Cookie Preferences (in-app), or
           by contacting{" "}
-          <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-            privacy@ashopper.com
+          <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+            privacy@a-shopper.com
           </a>
           .
         </LegalP>
@@ -312,14 +312,14 @@ export function CookiesContent() {
           items={[
             <>
               Email:{" "}
-              <a href="mailto:privacy@ashopper.com" className="text-primary hover:underline">
-                privacy@ashopper.com
+              <a href="mailto:privacy@a-shopper.com" className="text-primary hover:underline">
+                privacy@a-shopper.com
               </a>
             </>,
             <>
               Support:{" "}
-              <a href="mailto:support@ashopper.com" className="text-primary hover:underline">
-                support@ashopper.com
+              <a href="mailto:support@a-shopper.com" className="text-primary hover:underline">
+                support@a-shopper.com
               </a>
             </>,
             <>
